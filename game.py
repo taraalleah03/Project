@@ -65,10 +65,12 @@ while lives > 0:
         print("Correct! You can travel to another country.")
         country: input("Which country do you want to go to? ").strip()
         print(f"The cow travels to {country}")
+
         if country == best_country: #if the user guess the right country
             print(f"The cow found the best grass in {best_country}!")
             print("Farmer in jail! You win!")
             break
+
     else: #if thr answer is wrong, lose 1 live and the system gives a hint
         lives -= 1
         print(f"Wrong! You lose a life.Lives left: {lives}")
