@@ -21,24 +21,6 @@ print("Connected to Maria db!")
 #Main game
 
 #List of countries to choose from (get the list of countries from database)
-countries = {}
-
-# Function to get countries
-def get_random_countries(connection, limit=11):
-    cursor = connection.cursor()
-    sql = "SELECT c.name, a.continent, a.municipality FROM country c JOIN airport a ON c.iso_country = a.iso_country WHERE a.municipality IS NOT NULL ORDER BY RAND() LIMIT ?"
-    cursor.execute(sql, (limit,))
-    results = cursor.fetchall()
-    cursor.close()
-
-    #input into country dictionary
-    countries = {}
-    for name, continent, city in results:
-        countries[name] = {"continent": continent, "city": city}
-    return countries
-
-countries = get_random_countries(connection, 11)
-print(countries)
 
 
 #To move to another country solve a puzzle
@@ -62,11 +44,9 @@ print("The cow needs to solve puzzles to travel to another country!")
 print("You have 3 lives and 90 seconds. Wrong answer = lose 1 life.")
 
 while lives > 0:
-### Timer
+
     elapsed = time.time() - start_time
     remaining_time = int(time_limit - elapsed)
-
-### if the timer runs out = farmer catches the cow = lose
     if remaining_time <= 0:
         print("\nTime’s up! The farmer catches the cow. Dinner time!")
         break
@@ -75,7 +55,7 @@ while lives > 0:
     if question_count % 3 == 0:
         print(f"\n Announcement: {remaining_time} seconds left! Hurry up!")
 
-### Puzzle solving
+
     puzzle, answer = random.choice(list(puzzles.items()))
     user_answer = input(f"\n Puzzle: {puzzle} ").lower().strip()
 
@@ -83,24 +63,17 @@ while lives > 0:
         print("Correct! You can travel to another country.")
         country: input("Which country do you want to go to? ").strip()
         print(f"The cow travels to {country}")
-        if country == best_country: #if the user guess the right country
-            print(f"The cow found the best grass in {best_country}!")
-            print("Farmer in jail! You win!")
-            break
-    else: #if thr answer is wrong, lose 1 live and the system gives a hint
+    else:
         lives -= 1
         print(f"Wrong! You lose a life.Lives left: {lives}")
-        hint = random.choice(hints[best_country])
-        print(f" Here is a hint your you: {hint}")
         if lives > 0:
             next_country = input("Choose another country to try: ").strip()
             print(f"The cow travels to {next_country}")
 
-#If the cow loses all three lives =  the farmer catches the cow.
 if lives == 0:
-    print("\n You have no lives left. The farmer catches the cow!!! Dinner time!")
+    print("\n You have no lives left. The farmer catched the cow!!! Dinner time!")
 
-
+#If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.
 
 
 #Ending
@@ -110,8 +83,8 @@ if lives == 0:
     print("The has been captured")"""
 
 #If the cow loses the farmer says something like “Dinner time”
-"""elif "!" k== "!":"""
-message = random.randint(1, 3)
+"""elif "!" == "!":"""
+    message = random.randint(1, 3)
 
     if message == 1:
         print("FARMER: IT'S DINNER TIME!")

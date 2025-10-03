@@ -1,10 +1,11 @@
 import mariadb #for this to work need to import mariadb
+import random
 
 connection = mariadb.connect(
 host ='127.0.0.1',
 port = 3306,
 user = 'root',
-password = 'princess',
+password = 'taRamart!n2003thirty',
 database = 'flight_game',
 autocommit = True
 )
@@ -14,50 +15,36 @@ autocommit = True
 countries = {}
 
 # Function to get countries
-def get_countries(connection, continent=None):
+def get_random_countries(connection, limit=11):
     cursor = connection.cursor()
-    if continent:
-        sql = "SELECT name FROM country WHERE continent = 'EU'"
-        cursor.execute(sql, (continent,))
-
+    sql = "SELECT c.name, a.continent, a.municipality FROM country c JOIN airport a ON c.iso_country = a.iso_country WHERE a.municipality IS NOT NULL ORDER BY RAND() LIMIT ?"
+    cursor.execute(sql, (limit,))
     results = cursor.fetchall()
-
-    if results:
-        if continent:
-            print(f"Countries in {continent}:")
-            for row in results:
-                print(f"- {row[0]}")
-        else:
-            print("All countries and continents:")
-            for row in results:
-                print(f"{row[0]} ({row[1]})")
-    else:
-        print("No countries found.")
-
     cursor.close()
 
-connection.close()
-print("Connection closed.")
+    #input into country dictionary
+    countries = {}
+    for name, continent, city in results:
+        countries[name] = {"continent": continent, "city": city}
+    return countries
 
-#Introduction to the game
+countries = get_random_countries(connection, 11)
+print(countries)
 
+countries = get_random_countries(connection, 11)
 
-#User inputs name
-#Rules of the game
+# pick one country to be the “best grass”
+best_country, details = random.choice(list(countries.items()))
 
+print("The cow is looking for the best grass...")
+print(f"Hint: The country is in continent {details['continent']}")
 
-#Main game
+guess = input("Which country do you think it is? ").strip()
 
-#List of countries to choose from (get the list of countries from database)
+if guess.lower() == best_country.lower():
+    print("Correct! You found the best grass!")
+else:
+    print(f"Wrong! The cow was in {best_country}, near {details['city']}.")
 
-
-#To move to another country solve a puzzle
-
-
-#If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.
-
-
-#Ending
-
-#If the cow wins the game prints out “ Farmer in jail “
-#If the cow loses the farmer says something like “Dinner time”
+puzzle, answer = random.choice(list(puzzles.items()))
+user_answer = input(f"Puzzle: {puzzle} ").lower().strip()
