@@ -44,4 +44,10 @@ def countdown_timer(seconds):
 #Ending
 
 #If the cow wins the game prints out “ Farmer in jail “
+if "?" == "?":
+    print("The has been captured")
+
 #If the cow loses the farmer says something like “Dinner time”
+elif "!" == "!":
+
+    print("FARMER: IT'S DINNER TIME!")
