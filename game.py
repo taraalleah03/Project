@@ -1,4 +1,13 @@
 #import all necessary modules/libraries
+import mariadb
+connection = mariadb.connect(
+    host = '127.0.0.1',
+    port = 3306,
+    user = 'root',
+    password = 'princess',
+    database = 'flight_game',
+    autocommit = True)
+print("Connected to Maria db!")
 
 #Introduction to the game
 
