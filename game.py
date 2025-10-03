@@ -20,43 +20,14 @@ def countdown_timer(seconds):
     print("Time's up, the farmer got you!")
     countdown_timer(90)
 
-
+#Connect to database
 
 
 #Introduction to the game
-def show_introduction():
-    introduction = """
-    Welcome to the game!
-    In this game a cow escapes 
-    her farmers barn due to her unsatisfaction by the quality of grass. 
-    She leaves the barn in hopes of finding the best grass. 
-    In order to find the best grass she will need to 
-    fly to different countries via airplane and to solve various puzzles 
-    to find the absolute best grass.
-"""
-    print(introduction)
-    show_introduction()
+
 
 #User inputs name
-
-name = input("Enter your name: ")
-print(f"Welcome, {name}!")
 #Rules of the game
-
-def show_rules():
-    rules = """
-    Here are the rules:
-    1. You have a 90 second timer and
-    if you fail to complete the round in the time given you lose.
-    2. You have three (3) lives.
-    3. If you get a question wrong, you will lose a life.
-    4. Whenever you get a question wrong, you will get a hint.
-    5. You will get to select each country you travel to.
-    6. If you get to a country with the best grass, you win!
-    """
-    print(rules)
-    show_rules()
-
 
 
 #Main game

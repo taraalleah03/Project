@@ -10,4 +10,3 @@ elif message == 2:
     print("FARMER: WE'RE HAVING GOOD STEAK TONIGHT!")
 elif message == 3:
     print("DINNER IS SERVED")
-
