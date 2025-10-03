@@ -38,6 +38,7 @@ puzzles = {
 lives = 3
 time_limit = 90
 start_time = time.time()
+question_count = 0
 
 print("The cow needs to solve puzzles to travel to another country!")
 print("You have 3 lives and 90 seconds. Wrong answer = lose 1 life.")
@@ -45,9 +46,14 @@ print("You have 3 lives and 90 seconds. Wrong answer = lose 1 life.")
 while lives > 0:
 
     elapsed = time.time() - start_time
-    if elapsed >= time_limit:
-        print("\n Time’s up! The farmer catches the cow. Dinner time!️")
+    remaining_time = int(time_limit - elapsed)
+    if remaining_time <= 0:
+        print("\nTime’s up! The farmer catches the cow. Dinner time!")
         break
+
+    question_count += 1
+    if question_count % 3 == 0:
+        print(f"\n Announcement: {remaining_time} seconds left! Hurry up!")
 
 
     puzzle, answer = random.choice(list(puzzles.items()))
