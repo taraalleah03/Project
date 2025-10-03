@@ -92,7 +92,7 @@ if lives == 0:
     print("The has been captured")"""
 
 #If the cow loses the farmer says something like “Dinner time”
-"""elif "!" == "!":"""
+"""elif "!" k== "!":"""
     message = random.randint(1, 3)
 
     if message == 1:
