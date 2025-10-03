@@ -9,14 +9,41 @@ connection = mariadb.connect(
     password = 'princess',
     database = 'flight_game',
     autocommit = True)
-print("Connected to Maria db!")
+
 
 #Introduction to the game
-
+def show_introduction():
+    introduction = """
+    This game is about a cow who was unsatisfied 
+    by the quality of grass her farmer was feeding her.
+    In order to satisfy her cravings the cow escapes 
+    the barn in hopes of finding better quality grass.
+    The cow needs to travel via airplane 
+    to different countries and to solve different puzzles 
+    to find the absolute best grass.
+    """
+    return print(introduction)
+show_introduction()
 
 #User inputs name
-#Rules of the game
+name = input("Enter your name: ")
+print(f"Welcome to the game, {name}!")
 
+#Rules of the game
+def show_rules():
+    rules = """
+    Here are the rules:
+    1. You have a 90 second timer and
+    if you fail to complete the round in the time given you lose.
+    2. You have three (3) lives.
+    3. If you get a question wrong, you will lose a life.
+    4. Whenever you get a question wrong, you will get a hint.
+    5. You will get to select each country you travel to.
+    6. If you get to a country with the best grass, you win!
+    """
+    return print(rules)
+show_rules()
+    
 
 #Main game
 
