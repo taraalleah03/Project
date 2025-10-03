@@ -37,7 +37,7 @@ def get_random_countries(connection, limit=11):
         countries[name] = {"continent": continent, "city": city}
     return countries
 
-best_country, details = random.choice(list(countries.items()))
+country_withgrass, details = random.choice(list(countries.items()))
 
 #this part is just to check if the country list actually has values
 countries = get_random_countries(connection, 11)
