@@ -44,10 +44,16 @@ def countdown_timer(seconds):
 #Ending
 
 #If the cow wins the game prints out “ Farmer in jail “
-if "?" == "?":
-    print("The has been captured")
+"""if "?" == "?":
+    print("The has been captured")"""
 
 #If the cow loses the farmer says something like “Dinner time”
-elif "!" == "!":
+"""elif "!" == "!":"""
+    message = random.randint(1, 3)
 
-    print("FARMER: IT'S DINNER TIME!")
+    if message == 1:
+        print("FARMER: IT'S DINNER TIME!")
+    elif message == 2:
+        print("FARMER: WE'RE HAVING GOOD STEAK TONIGHT!")
+    elif message == 3:
+        print("DINNER IS SERVED")
