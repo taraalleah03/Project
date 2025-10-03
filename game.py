@@ -14,7 +14,7 @@ connection = mariadb.connect(
 #Introduction to the game
 def show_introduction():
     introduction = """
-    sThis game is about a cow who was unsatisfied 
+    This game is about a cow who was unsatisfied 
     by the quality of grass her farmer was feeding her.
     In order to satisfy her cravings the cow escapes 
     the barn in hopes of finding better quality grass.

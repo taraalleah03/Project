@@ -43,4 +43,3 @@ connection = mariadb.connect(
     database = 'flight_game',
     autocommit = True
 
-i
