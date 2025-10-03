@@ -41,4 +41,6 @@ connection = mariadb.connect(
     user = 'root',
     password = 'princess',
     database = 'flight_game',
-    autocommit = True)
+    autocommit = True
+
+i
