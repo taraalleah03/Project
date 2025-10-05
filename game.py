@@ -6,7 +6,7 @@ connection = mariadb.connect(
     host = '127.0.0.1',
     port = 3306,
     user = 'root',
-    password = 'princess', #use own password here
+    password = 'taRamart!n2003thirty', #use own password here
     database = 'flight_game',
     autocommit = True)
 #visual intro
@@ -29,6 +29,28 @@ final_art = r'''
       / |  ||   `""""~"` 
      /'  |__||
            `o
+'''
+
+farmerinjail = r'''
+
+  _________________________
+     ||   ||     ||   ||
+     ||   ||, , ,||   ||
+     ||  (||/|/(\||/  ||
+     ||  ||| _'_`|||  ||
+     ||   || o o ||   ||
+     ||  (||  - `||)  ||
+     ||   ||  =  ||   ||
+     ||   ||\___/||   ||
+     ||___||) , (||___||
+    /||---||-\_/-||---||\
+   / ||--_||_____||_--|| \
+  (_(||)-| S123-45 |-(||)_)
+|"""""""""""""""""""""""""""|
+| "Honest, officer,I always |
+|   feed my cows the best   |
+|   grass! I'm innocent!!"  |
+ """""""""""""""""""""""""""
 '''
 
 #color codes ANSI
@@ -114,8 +136,8 @@ print("The cow is looking for the best grass...")
 guess = input("Which country do you think it is? ").strip()
 
 if guess.lower() == best_country.lower():
-    print(f"The cow found the best grass in {best_country}!")
-    print("Farmer in jail! You win!")
+    print(f"{GREEN}The cow found the best grass in {best_country}!{NORMAL}")
+    print(f"{GREEN}Farmer in jail! You win!\n", farmerinjail, f"{NORMAL}")
 else:
     random_letter = random.choice(list(best_country.replace(" ", "")))
     print(f"{RED}Wrong! The grass is somewhere else.{NORMAL} ")
@@ -162,7 +184,7 @@ while lives > 0:
         print(f"The cow travels to {next_country}\n")
         if next_country.lower() == best_country.lower(): #if the user guess the right country
             print(f"{GREEN}The cow found the best grass in {best_country}!{NORMAL}")
-            print(f"{GREEN}Farmer in jail! You win!{NORMAL}")
+            print(f"{GREEN}Farmer in jail! You win!\n",farmerinjail,f"{NORMAL}")
             break
         else:
             print(f"{RED}Wrong! The grass is somewhere else. Solve the puzzle to move to another country.{NORMAL}")
