@@ -6,10 +6,32 @@ connection = mariadb.connect(
     host = '127.0.0.1',
     port = 3306,
     user = 'root',
-    password = 'princess',
+    password = 'taRamart!n2003thirty',
     database = 'flight_game',
     autocommit = True)
+#visual intro
 
+final_art = r'''
+          .=     ,        =.                    __    __  __ __    ___  ____     ___ __  _____     ___ ___  __ __         __   ___   __    __  _____  __                          
+  _  _   /'/    )\,/,/(_   \ \                 |  |__|  ||  |  |  /  _]|    \   /  _]  |/ ___/    |   |   ||  |  |       /  ] /   \ |  |__|  |/     ||  |                 _.-^-._    .--.
+   `//-.|  (  ,\\)\//\)\/_  ) |                |  |  |  ||  |  | /  [_ |  D  ) /  [_|_ (   \_     | _   _ ||  |  |      /  / |     ||  |  |  ||  Y  ||  |              .-'   _   '-. |__|
+   //___\   `\\\/\\/\/\\///'  /                |  |  |  ||  _  ||    _]|    / |    _] \|\__  |    |  \_/  ||  ~  |     /  /  |  O  ||  |  |  ||__|  ||__|             /     |_|     \|  |
+,-"~`-._ `"--'_   `"""`  _ \`'"~-,_            |  `  '  ||  |  ||   [_ |    \ |   [_    /  \ |    |   |   ||___, |    /   \_ |     ||  `  '  |   |__| __             /               \  |
+\       `-.  '_`.      .'_` \ ,-"~`/            \      / |  |  ||     ||  .  \|     |   \    |    |   |   ||     |    \     ||     | \      /     __ |  |           /|     _____     |\ |
+ `.__.-'`/   (-\        /-) |-.__,'              \_/\_/  |__|__||_____||__|\_||_____|    \___|    |___|___||____/      \____| \___/   \_/\_/     |__||__|            |    |==|==|    |  |
+   ||   |     \O)  /^\ (O/  |                                                                                                                                        |    |--|--|    |  |
+   `\\  |         /   `\    /                                                                                                                                        |    |==|==|    |  |
+     \\  \       /      `\ /          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      `\\ `-.  /' .---.--.\
+        `\\/`~(, '()      ('
+         /(O) \\   _,.-.,_)
+        //  \\ `\'`      /
+      / |  ||   `""""~"` 
+     /'  |__||
+           `o
+'''
+
+print(final_art)
 
 #Introduction to the game
 def show_introduction():
@@ -51,9 +73,9 @@ show_rules()
 countries = {}
 
 # Function to get countries
-def get_random_countries(connection, limit=11):
+def get_random_countries(connection, limit):
     cursor = connection.cursor()
-    sql = "SELECT c.name, a.continent, a.municipality FROM country c JOIN airport a ON c.iso_country = a.iso_country WHERE a.municipality IS NOT NULL ORDER BY RAND() LIMIT ?"
+    sql = "SELECT c.name, a.continent, MAX(a.municipality) FROM country c JOIN airport a ON c.iso_country = a.iso_country WHERE a.municipality IS NOT NULL GROUP BY c.name, a.continent ORDER BY RAND() LIMIT ?"
     cursor.execute(sql, (limit,))
     results = cursor.fetchall()
     cursor.close()
@@ -64,12 +86,35 @@ def get_random_countries(connection, limit=11):
         countries[name] = {"continent": continent, "city": city}
     return countries
 
-country_withgrass, details = random.choice(list(countries.items()))
+countries = get_random_countries(connection,limit = 10)
 
-#this part is just to check if the country list actually has values
-countries = get_random_countries(connection, 11)
-print(countries)
+#to print choices
+print("Here is the list of countries to choose from")
+for c in countries:
+    print("-",c)
+print("\n")
 
+# randomly picks one country to be the “best grass”
+# dictionary → dict_items → list → tuple → unpack into variables
+best_country, details = random.choice(list(countries.items()))
+
+#to store hints
+continent_hint = countries[best_country]["continent"]
+city_hint = countries[best_country]["city"]
+
+hints = [continent_hint, city_hint]
+hint = random.choice(hints)
+
+
+print("The cow is looking for the best grass...")
+#print(f"Hint: The country is in continent {details['continent']}")
+
+guess = input("Which country do you think it is? ").strip()
+
+if guess.lower() == best_country.lower():
+    print("Correct! You found the best grass!")
+else:
+    print(f"Wrong! The grass is somewhere else, near {details['city']}.")
 
 #To move to another country solve a puzzle
 puzzles = {
@@ -87,9 +132,6 @@ lives = 3
 time_limit = 90
 start_time = time.time()
 question_count = 0
-
-print("The cow needs to solve puzzles to travel to another country!")
-print("You have 3 lives and 90 seconds. Wrong answer = lose 1 life.")
 
 while lives > 0:
 ### Timer
@@ -111,12 +153,15 @@ while lives > 0:
 
     if user_answer == answer:
         print("Correct! You can travel to another country.")
-        country: input("Which country do you want to go to? ").strip()
-        print(f"The cow travels to {country}")
-        if country == best_country: #if the user guess the right country
+        next_country= input("Which country do you want to go to? ").strip()
+        print(f"The cow travels to {next_country}")
+        if next_country == best_country: #if the user guess the right country
             print(f"The cow found the best grass in {best_country}!")
             print("Farmer in jail! You win!")
             break
+        else:
+            print(f"Wrong! The grass is somewhere else, near {details['city']}.")
+            print("Since you chose the wrong country now you have to solve a puzzle to move to another country.")
     else: #if thr answer is wrong, lose 1 live and the system gives a hint
         lives -= 1
         print(f"Wrong! You lose a life.Lives left: {lives}")
@@ -141,11 +186,11 @@ if lives == 0:
 
 #If the cow loses the farmer says something like “Dinner time”
 """elif "!" k== "!":"""
-message = random.randint(1, 3)
+#message = random.randint(1, 3)
 
-    if message == 1:
-        print("FARMER: IT'S DINNER TIME!")
-    elif message == 2:
-        print("FARMER: WE'RE HAVING GOOD STEAK TONIGHT!")
-    elif message == 3:
-        print("DINNER IS SERVED")
+#    if message == 1:
+#        print("FARMER: IT'S DINNER TIME!")
+#    elif message == 2:
+#        print("FARMER: WE'RE HAVING GOOD STEAK TONIGHT!")
+#    elif message == 3:
+#        print("DINNER IS SERVED")
