@@ -10,7 +10,7 @@ connection = mariadb.connect(
     database = 'flight_game',
     autocommit = True)
 #visual intro
-
+#hi
 final_art = r'''
           .=     ,        =.                    __    __  __ __    ___  ____     ___ __  _____     ___ ___  __ __         __   ___   __    __  _____  __                          
   _  _   /'/    )\,/,/(_   \ \                 |  |__|  ||  |  |  /  _]|    \   /  _]  |/ ___/    |   |   ||  |  |       /  ] /   \ |  |__|  |/     ||  |                 _.-^-._    .--.
