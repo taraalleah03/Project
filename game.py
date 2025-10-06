@@ -140,7 +140,7 @@ if guess.lower() == best_country.lower():
     print(f"{GREEN}Farmer in jail! You win!\n", farmerinjail, f"{NORMAL}")
 else:
     random_letter = random.choice(list(best_country.replace(" ", "")))
-    print(f"{RED}Wrong! The grass is somewhere else.{NORMAL} ")
+    print(f"{RED}Wrong! The grass is somewhere else. Solve the puzzle to move to another country.{NORMAL} ")
     print(f"{BLUE}Hint: The country's name has the letter '{random_letter.upper()}'{NORMAL}.")
 
 #To move to another country solve a puzzle
