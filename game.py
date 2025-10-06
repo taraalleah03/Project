@@ -47,7 +47,7 @@ farmerinjail = r'''
    / ||--_||_____||_--|| \
   (_(||)-| S123-45 |-(||)_)
 |"""""""""""""""""""""""""""|
-| "Honest, officer,I always |
+|"Honestly officer,I always |
 |   feed my cows the best   |
 |   grass! I'm innocent!!"  |
  """""""""""""""""""""""""""
