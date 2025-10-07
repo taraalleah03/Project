@@ -146,7 +146,7 @@ else:
 
 #To move to another country solve a puzzle
 puzzles = {
-    "What is 25 x 11? ": "171",
+    "What is 25 x 11? ": "275",
     "What color do you get by mixing red and blue? ": "purple",
     "What is the capital of France? ": "paris",
     "How many legs does a cow have? ": "4",
