@@ -194,11 +194,11 @@ while lives > 0:
                 print(f"{GREEN}The cow found the best grass in {best_country}!{NORMAL}")
                 print(f"{GREEN}Farmer in jail! You win!\n", farmerinjail, f"{NORMAL}")
             elif message == 2:
-                    print(f"{GREEN}The cow found the best grass in {best_country}!{NORMAL}")
-                    print(f"{GREEN}Farmer in jail! Enjoy your grass!!\n", farmerinjail, f"{NORMAL}")
+                print(f"{GREEN}The cow found the best grass in {best_country}!{NORMAL}")
+                print(f"{GREEN}Farmer in jail! Enjoy your grass!!\n", farmerinjail, f"{NORMAL}")
             elif message == 3:
-                    print(f"{GREEN}The cow found the best grass in {best_country}!{NORMAL}")
-                    print(f"{GREEN}Farmer got caught! Time for a feast!\n", farmerinjail, f"{NORMAL}")
+                print(f"{GREEN}The cow found the best grass in {best_country}!{NORMAL}")
+                print(f"{GREEN}Farmer got caught! Time for a feast!\n", farmerinjail, f"{NORMAL}")
             # if the user guess the right country
             break
         else:
@@ -216,21 +216,15 @@ while lives > 0:
 
 # If the cow loses all three lives =  the farmer catches the cow.
 if lives == 0:
-    print(f"\n{RED}You have no lives left. The farmer catches the cow!!! Dinner time!{NORMAL}")
+    message2 = random.randint(1,3)
+    if message2 == 1:
+        print(f"\n{RED}You have no lives left. The farmer catches the cow!!!")
+        print(f"FARMER: IT'S DINNER TIME!{NORMAL}")
+    elif message2 == 2:
+        print(f"\n{RED}You have no lives left. The farmer catches the cow!!!")
+        print(f"FARMER: WE'RE HAVING GOOD STEAK TONIGHT!{NORMAL}")
+    elif message2 == 3:
+        print(f"\n{RED}You have no lives left. The farmer catches the cow!!!")
+        print(f"FARMER: I GOT YOU NOW!{NORMAL}")
 
 # Ending
-
-# If the cow wins the game prints out “ Farmer in jail “
-"""if "?" == "?":
-    print("The has been captured")"""
-
-# If the cow loses the farmer says something like “Dinner time”
-"""elif "!" k== "!":"""
-# message = random.randint(1, 3)
-
-#    if message == 1:
-#        print("FARMER: IT'S DINNER TIME!")
-#    elif message == 2:
-#        print("FARMER: WE'RE HAVING GOOD STEAK TONIGHT!")
-#    elif message == 3:
-#        print("DINNER IS SERVED")

@@ -1,15 +1,16 @@
-#import all necessary modules/libraries
+# import all necessary modules/libraries
 import mariadb
 import time
 import random
+
 connection = mariadb.connect(
-    host = '127.0.0.1',
-    port = 3306,
-    user = 'root',
-    password = 'taRamart!n2003thirty', #use own password here
-    database = 'flight_game',
-    autocommit = True)
-#visual intro
+    host='127.0.0.1',
+    port=3306,
+    user='root',
+    password='bootsandcats',  # use own password here
+    database='flight_game',
+    autocommit=True)
+# visual intro
 
 farmerinjail = r'''
 
@@ -52,9 +53,7 @@ final_art = r'''
            `o
 '''
 
-
-
-#color codes ANSI
+# color codes ANSI
 RED = "\033[91m"
 GREEN = "\033[92m"
 YELLOW = "\033[93m"
@@ -63,7 +62,8 @@ NORMAL = "\033[0m"
 
 print(f"{GREEN}{final_art}{NORMAL}")
 
-#Introduction to the game
+
+# Introduction to the game
 def show_introduction():
     introduction = f"""
     {YELLOW}This game is about a cow who was unsatisfied 
@@ -75,13 +75,16 @@ def show_introduction():
     to find the absolute best grass.
     {NORMAL}"""
     return print(introduction)
+
+
 show_introduction()
 
-#User inputs name
+# User inputs name
 name = input("Enter your name: ")
 print(f"\n{YELLOW}Welcome to the game, {name}!{NORMAL}")
 
-#Rules of the game
+
+# Rules of the game
 def show_rules():
     rules = f"""{YELLOW}
     Here are the rules:
@@ -93,12 +96,14 @@ def show_rules():
     6. If you get to a country with the best grass, you win!
     {NORMAL}"""
     return print(rules)
+
+
 show_rules()
-    
 
-#Main game
 
-#function to get countries
+# Main game
+
+# function to get countries
 def get_random_countries(connection, limit):
     cursor = connection.cursor()
     sql = "SELECT c.name, a.continent, MAX(a.municipality) FROM country c JOIN airport a ON c.iso_country = a.iso_country WHERE a.municipality IS NOT NULL GROUP BY c.name, a.continent ORDER BY RAND() LIMIT ?"
@@ -106,31 +111,31 @@ def get_random_countries(connection, limit):
     results = cursor.fetchall()
     cursor.close()
 
-    #input into country dictionary
+    # input into country dictionary
     countries = {}
     for name, continent, city in results:
         countries[name] = {"continent": continent, "city": city}
     return countries
 
-countries = get_random_countries(connection,limit = 10)
 
-#to print choices
+countries = get_random_countries(connection, limit=10)
+
+# to print choices
 print("Here is the list of countries to choose from")
 for c in countries:
-    print(f"-{BLUE}",c,f"{NORMAL}")
+    print(f"-{BLUE}", c, f"{NORMAL}")
 print("\n")
 
 # randomly picks one country to be the “best grass”
 # dictionary → dict_items → list → tuple → unpack into variables
 best_country, details = random.choice(list(countries.items()))
 
-#to store hints
+# to store hints
 continent_hint = countries[best_country]["continent"]
 city_hint = countries[best_country]["city"]
 
 hints = [continent_hint, city_hint]
 hint = random.choice(hints)
-
 
 print("The cow is looking for the best grass...")
 
@@ -144,7 +149,7 @@ else:
     print(f"{RED}Wrong! The grass is somewhere else. Solve the puzzle to move to another country.{NORMAL} ")
     print(f"{BLUE}Hint: The country's name has the letter '{random_letter.upper()}'{NORMAL}.")
 
-#To move to another country solve a puzzle
+# To move to another country solve a puzzle
 puzzles = {
     "What is 25 x 11? ": "171",
     "What color do you get by mixing red and blue? ": "purple",
@@ -162,11 +167,11 @@ start_time = time.time()
 question_count = 0
 
 while lives > 0:
-### Timer
+    ### Timer
     elapsed = time.time() - start_time
     remaining_time = int(time_limit - elapsed)
 
-### if the timer runs out = farmer catches the cow = lose
+    ### if the timer runs out = farmer catches the cow = lose
     if remaining_time <= 0:
         print(f"\n{RED}Time’s up! The farmer catches the cow. Dinner time!{NORMAL}")
         break
@@ -175,51 +180,52 @@ while lives > 0:
     if question_count % 3 == 0:
         print(f"\n{YELLOW}Announcement: {remaining_time} seconds left! Hurry up!{NORMAL}")
 
-### Puzzle solving
+    ### Puzzle solving
     puzzle, answer = random.choice(list(puzzles.items()))
     user_answer = input(f"\nPuzzle: {puzzle} \n").lower().strip()
 
     if user_answer == answer:
         print(f"{GREEN}Correct! You can travel to another country.{NORMAL}\n")
-        next_country= input("Which country do you want to go to? ").strip()
+        next_country = input("Which country do you want to go to? ").strip()
         print(f"The cow travels to {next_country}\n")
-        if next_country.lower() == best_country.lower(): #if the user guess the right country
-            print(f"{GREEN}The cow found the best grass in {best_country}!{NORMAL}")
-            print(f"{GREEN}Farmer in jail! You win!\n",farmerinjail,f"{NORMAL}")
+        if next_country.lower() == best_country.lower():
+            message = random.randint(1,3)
+            if message == 1:
+                print(f"{GREEN}The cow found the best grass in {best_country}!{NORMAL}")
+                print(f"{GREEN}Farmer in jail! You win!\n", farmerinjail, f"{NORMAL}")
+            elif message == 2:
+                print(f"{GREEN}The cow found the best grass in {best_country}!{NORMAL}")
+                print(f"{GREEN}Farmer in jail! Enjoy your grass!!\n", farmerinjail, f"{NORMAL}")
+            elif message == 3:
+                print(f"{GREEN}The cow found the best grass in {best_country}!{NORMAL}")
+                print(f"{GREEN}Farmer got caught! Time for a feast!\n", farmerinjail, f"{NORMAL}")
+            # if the user guess the right country
             break
         else:
             print(f"{RED}Wrong! The grass is somewhere else. Solve the puzzle to move to another country.{NORMAL}")
             hint = random.choice(hints)
             print(f"{BLUE}Hint: the country's city/continent is {hint}{NORMAL}")
-    else: #if thr answer is wrong, lose 1 live and the system gives a hint
+    else:  # if thr answer is wrong, lose 1 live and the system gives a hint
         lives -= 1
         print(f"{RED}Wrong! You lose a life.Lives left: {lives}{NORMAL}")
         hint = random.choice(hints)
         print(f"{BLUE}Hint: the country's city/continent is {hint}{NORMAL}")
-        #if lives > 0:
+        # if lives > 0:
         #    next_country = input("Choose another country to try: ").strip()
         #    print(f"The cow travels to {next_country}")
 
-#If the cow loses all three lives =  the farmer catches the cow.
+# If the cow loses all three lives =  the farmer catches the cow.
 if lives == 0:
-    print(f"\n{RED}You have no lives left. The farmer catches the cow!!! Dinner time!{NORMAL}")
+    message2 = random.randint(1,3)
+    if message2 == 1:
+        print(f"\n{RED}You have no lives left. The farmer catches the cow!!!")
+        print(f"FARMER: IT'S DINNER TIME!{NORMAL}")
+    elif message2 == 2:
+        print(f"\n{RED}You have no lives left. The farmer catches the cow!!!")
+        print(f"FARMER: WE'RE HAVING GOOD STEAK TONIGHT!{NORMAL}")
+    elif message2 == 3:
+        print(f"\n{RED}You have no lives left. The farmer catches the cow!!!")
+        print(f"FARMER: I GOT YOU NOW!{NORMAL}")
 
+# Ending
 
-
-
-#Ending
-
-#If the cow wins the game prints out “ Farmer in jail “
-"""if "?" == "?":
-    print("The has been captured")"""
-
-#If the cow loses the farmer says something like “Dinner time”
-"""elif "!" k== "!":"""
-#message = random.randint(1, 3)
-
-#    if message == 1:
-#        print("FARMER: IT'S DINNER TIME!")
-#    elif message == 2:
-#        print("FARMER: WE'RE HAVING GOOD STEAK TONIGHT!")
-#    elif message == 3:
-#        print("DINNER IS SERVED")
