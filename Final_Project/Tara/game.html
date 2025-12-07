@@ -23,7 +23,7 @@
 
         //Game starts when user click start_btn
         document.getElementById("start_btn").onclick = async() => {
-            const res = await fetch("/api/start");
+            const res = await fetch("http://127.0.0.1:5000/api/start");
             const data = await res.json();
 
             answer = data.answer;
