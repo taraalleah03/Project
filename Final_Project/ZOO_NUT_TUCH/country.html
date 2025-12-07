@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Country Guessing Game</title>
+</head>
+<body>
+    <h1>Game</h1>
+
+    <div id="timer"></div>
+    <div id="lives"></div>
+
+    <button id="start_btn">Start!</button>
+
+    <div id="guessSection">
+        <div id="countries"></div>
+
+        <input id="guess_ans" placeholder="Which country has the best grass?">
+        <button id="guess_btn">Guess</button>
+
+        <p id="result"></p>
+        <p id="hint"></p>
+    </div>
+
+    <div id="puzzleSection" style="display:none;">
+        <h2>YOU HAVE ENTERED A WRONG COUNTRY</h2>
+        <p>Solve this puzzle to continue</p>
+        <div id = "question"></div>
+        <input id = "answerInput">
+        <button id="submitButton">Submit</button>
+        <div id = "message"></div>
+    </div>
+
+
+    <script src="country.js"></script>
+</body>
+</html>
