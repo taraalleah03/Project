@@ -32,12 +32,22 @@ def api_start():
     countries = get_random_countries(connection, 10)
     best_country, details = random.choice(list(countries.items()))
 
+    continent = details["continent"]
+    city = details["city"]
+    hints = [continent, city]
+
+    return jsonify({
+        "countries": list(countries.keys()),
+        "answer": best_country,
+        "hints": hints,
+    })
 
 @app.route('/api/guess', methods=["POST"])
 def api_guess():
     data = request.json
     guess = data.get("guess","").strip()
     answer = data.get("answer","").strip()
+    hints = data.get("hints",[])
 
     if guess.lower() == answer.lower():
         return jsonify({
