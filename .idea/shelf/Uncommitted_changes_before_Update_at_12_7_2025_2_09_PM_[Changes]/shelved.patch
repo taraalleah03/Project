@@ -1,0 +1,1078 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_44_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_44_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_44_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_44_[Changes]/shelved.patch	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,31 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/game.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/game.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExportToHTMLSettings\">\r\n    <option name=\"OUTPUT_DIRECTORY\" value=\"$PROJECT_DIR$/../Project\\exportToHTML\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;taraalleah03&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,\r\n    &quot;accountId&quot;: &quot;2c885bae-dacc-4da8-80ac-62fdbd2ba333&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"33SdWrtMWAurQMhWKCuL5tbH94y\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;Python.game.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515\" />\r\n        <option value=\"bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\" />\r\n      <created>1759314441889</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1759314441889</updated>\r\n      <workItem from=\"1759314442944\" duration=\"227000\" />\r\n      <workItem from=\"1759314682025\" duration=\"679000\" />\r\n      <workItem from=\"1759329463818\" duration=\"301000\" />\r\n      <workItem from=\"1759485650903\" duration=\"1375000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/Project$game.coverage\" NAME=\"game Coverage Results\" MODIFIED=\"1759486954029\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision e58d6441d2f4bf47c7b1150fd06d0ada11ade437)
+-+++ b/.idea/workspace.xml	(date 1759491826656)
+-@@ -4,10 +4,7 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="">
+--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+--    </list>
+-+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="" />
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -99,6 +96,6 @@
+-     </option>
+-   </component>
+-   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+--    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759486954029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-+    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759491546517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-   </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_01__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_01__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_01__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_01__Changes_.xml	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_3_10_2025,_14_01_[Changes]" date="1759489289298" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_01_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 3.10.2025, 14.01 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_01_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_01_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_01_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_01_[Changes]/shelved.patch	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,59 +0,0 @@
+-Index: game.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>#import all necessary modules/libraries\n\n#Introduction to the game\n\n\n#User inputs name\n#Rules of the game\n\n\n#Main game\n\n#List of countries to choose from (get the list of countries from database)\n\n\n#To move to another country solve a puzzle\n\n\n#If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.\n\n\n#Ending\n\n#If the cow wins the game prints out “ Farmer in jail “\n#If the cow loses the farmer says something like “Dinner time”
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/game.py b/game.py
+---- a/game.py	(revision a4e68450b6ff9fbf15cb92b7a533f1510b25b7be)
+-+++ b/game.py	(date 1759489261197)
+-@@ -13,7 +13,19 @@
+- 
+- 
+- #To move to another country solve a puzzle
+--
+-+puzzles = {
+-+    "What is 25 x 11? ": "171",
+-+    "What color do you get by mixing red and blue? ": "purple",
+-+    "What is the capital of France? ": "paris",
+-+    "How many legs does a cow have? ": "4",
+-+    "What is 10 - 3? ": "7",
+-+    "What is 'Thank you' in Finnish ": "kiitos",
+-+    "Is Cleopatra from India? ": "no",
+-+    "What language do Japanese people speak ": "japanese"
+-+}
+-+lives = 3
+-+time_limit = 90
+-+start_time = time.time()
+- 
+- #If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.
+- 
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/Project.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/Project.iml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/game.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/game.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExportToHTMLSettings\">\n    <option name=\"OUTPUT_DIRECTORY\" value=\"$PROJECT_DIR$/../Project\\exportToHTML\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;taraalleah03&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project.git&quot;,\n    &quot;accountId&quot;: &quot;cf55d315-9f25-4adc-ad65-422396939b3a&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"33SdWrtMWAurQMhWKCuL5tbH94y\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515\" />\n        <option value=\"bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\" />\n      <created>1759314441889</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1759314441889</updated>\n      <workItem from=\"1759314442944\" duration=\"227000\" />\n      <workItem from=\"1759314682025\" duration=\"679000\" />\n      <workItem from=\"1759329463818\" duration=\"301000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision a4e68450b6ff9fbf15cb92b7a533f1510b25b7be)
+-+++ b/.idea/workspace.xml	(date 1759487119426)
+-@@ -5,9 +5,7 @@
+-   </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="">
+--      <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -80,6 +78,7 @@
+-       <workItem from="1759314442944" duration="227000" />
+-       <workItem from="1759314682025" duration="679000" />
+-       <workItem from="1759329463818" duration="301000" />
+-+      <workItem from="1759485846813" duration="615000" />
+-     </task>
+-     <servers />
+-   </component>
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_09__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_09__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_09__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_09__Changes_.xml	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_3_10_2025_14_09_[Changes]" date="1759489793241" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_09_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 3.10.2025 14.09 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_26__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_26__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_26__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_26__Changes_.xml	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_3_10_2025,_14_26_[Changes]" date="1759490811279" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_26_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 3.10.2025, 14.26 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM__Changes_.xml	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM_[Changes]" date="1759487652063" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 10/3/2025 1:34 PM [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_16_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_16_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_16_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_16_[Changes]/shelved.patch	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,147 +0,0 @@
+-Index: game.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>#import all necessary modules/libraries\nimport mariadb\nimport time\nimport random\nconnection = mariadb.connect(\n    host = '127.0.0.1',\n    port = 3306,\n    user = 'root',\n    password = 'princess',\n    database = 'flight_game',\n    autocommit = True)\ndef countdown_timer(seconds):\n    while seconds:\n        mins, secs = divmod(seconds, 60)\n        timer = f\"{mins:02d}:{secs:02d}\"\n        print(timer, end=\"\\r\")\n        time.sleep(1)\n        seconds -= 1\n\n    print(\"Time's up, the farmer got you!\")\n    countdown_timer(90)\n\n#Connect to database\n\n\n#Introduction to the game\n\n\n#User inputs name\n#Rules of the game\n\n\n#Main game\n\n#List of countries to choose from (get the list of countries from database)\n\n\n#To move to another country solve a puzzle\n\n\n#If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.\n\n\n#Ending\n\n#If the cow wins the game prints out “ Farmer in jail “\nif \"?\" == \"?\":\n    print(\"The has been captured\")\n\n#If the cow loses the farmer says something like “Dinner time”\nelif \"!\" == \"!\":\n\n    print(\"FARMER: IT'S DINNER TIME!\")
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/game.py b/game.py
+---- a/game.py	(revision 6edf3ec5df6cbc33b319a9c452a7d8bbd3c629e4)
+-+++ b/game.py	(date 1759490161989)
+-@@ -1,7 +1,6 @@
+- #import all necessary modules/libraries
+- import mariadb
+--import time
+--import random
+-+import timer
+- connection = mariadb.connect(
+-     host = '127.0.0.1',
+-     port = 3306,
+-@@ -9,19 +8,7 @@
+-     password = 'princess',
+-     database = 'flight_game',
+-     autocommit = True)
+--def countdown_timer(seconds):
+--    while seconds:
+--        mins, secs = divmod(seconds, 60)
+--        timer = f"{mins:02d}:{secs:02d}"
+--        print(timer, end="\r")
+--        time.sleep(1)
+--        seconds -= 1
+--
+--    print("Time's up, the farmer got you!")
+--    countdown_timer(90)
+--
+--#Connect to database
+--
+-+print("Connected to Maria db!")
+- 
+- #Introduction to the game
+- 
+-@@ -36,7 +23,48 @@
+- 
+- 
+- #To move to another country solve a puzzle
+-+puzzles = {
+-+    "What is 25 x 11? ": "171",
+-+    "What color do you get by mixing red and blue? ": "purple",
+-+    "What is the capital of France? ": "paris",
+-+    "How many legs does a cow have? ": "4",
+-+    "What is 10 - 3? ": "7",
+-+    "What is 'Thank you' in Finnish ": "kiitos",
+-+    "Is Cleopatra from India? ": "no",
+-+    "What language do Japanese people speak ": "japanese"
+-+}
+-+### game rules and timer
+-+lives = 3
+-+time_limit = 90
+-+start_time = time.time()
+-+
+-+print("The cow needs to solve puzzles to travel to another country!")
+-+print("You have 3 lives and 90 seconds. Wrong answer = lose 1 life.")
+-+
+-+while lives > 0:
+-+
+-+    elapsed = time.time() - start_time
+-+    if elapsed >= time_limit:
+-+        print("\n Time’s up! The farmer catches the cow. Dinner time!️")
+-+        break
+-+
+- 
+-+    puzzle, answer = random.choice(list(puzzles.items()))
+-+    user_answer = input(f"\n Puzzle: {puzzle} ").lower().strip()
+-+
+-+    if user_answer == answer:
+-+        print("Correct! You can travel to another country.")
+-+        country: input("Which country do you want to go to? ").strip()
+-+        print(f"The cow travels to {country}")
+-+    else:
+-+        lives -= 1
+-+        print(f"Wrong! You lose a life.Lives left: {lives}")
+-+        if lives > 0:
+-+            next_country = input("Choose another country to try: ").strip()
+-+            print(f"The cow travels to {next_country}")
+-+
+-+if lives == 0:
+-+    print("\n You have no lives left. The farmer catched the cow!!! Dinner time!")
+- 
+- #If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.
+- 
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/game.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/game.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExportToHTMLSettings\">\n    <option name=\"OUTPUT_DIRECTORY\" value=\"$PROJECT_DIR$/../Project\\exportToHTML\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;taraalleah03&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,\n    &quot;accountId&quot;: &quot;2c885bae-dacc-4da8-80ac-62fdbd2ba333&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"33SdWrtMWAurQMhWKCuL5tbH94y\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\n    &quot;Python.game.executor&quot;: &quot;Run&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515\" />\n        <option value=\"bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\" />\n      <created>1759314441889</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1759314441889</updated>\n      <workItem from=\"1759314442944\" duration=\"227000\" />\n      <workItem from=\"1759314682025\" duration=\"679000\" />\n      <workItem from=\"1759329463818\" duration=\"301000\" />\n      <workItem from=\"1759485650903\" duration=\"1375000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\n    <SUITE FILE_PATH=\"coverage/Project$game.coverage\" NAME=\"game Coverage Results\" MODIFIED=\"1759486954029\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\n  </component>\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 6edf3ec5df6cbc33b319a9c452a7d8bbd3c629e4)
+-+++ b/.idea/workspace.xml	(date 1759489734939)
+-@@ -4,7 +4,7 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="">
+-+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="continue!">
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+-     </list>
+-@@ -80,8 +80,23 @@
+-       <workItem from="1759314442944" duration="227000" />
+-       <workItem from="1759314682025" duration="679000" />
+-       <workItem from="1759329463818" duration="301000" />
+--      <workItem from="1759485650903" duration="1375000" />
+-+      <workItem from="1759485650903" duration="3443000" />
+-+    </task>
+-+    <task id="LOCAL−00001" summary="continue!">
+-+      <option name="closed" value="true" />
+-+      <created>1759487060595</created>
+-+      <option name="number" value="LOCAL−00001" />
+-+      <option name="presentableId" value="LOCAL−00001" />
+-+      <updated>1759487060595</updated>
+-     </task>
+-+    <task id="LOCAL−00002" summary="continue!">
+-+      <option name="closed" value="true" />
+-+      <created>1759487172489</created>
+-+      <option name="number" value="LOCAL−00002" />
+-+      <option name="presentableId" value="LOCAL−00002" />
+-+      <updated>1759487172489</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="3" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -98,7 +113,11 @@
+-       </map>
+-     </option>
+-   </component>
+-+  <component name="VcsManagerConfiguration">
+-+    <MESSAGE value="continue!" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="continue!" />
+-+  </component>
+-   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+--    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759486954029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-+    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759489082450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-   </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_03__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_03__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_03__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_03__Changes_.xml	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_3_10_2025,_14_03_[Changes]" date="1759489403084" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_03_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 3.10.2025, 14.03 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_16__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_16__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_16__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_16__Changes_.xml	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_3_10_2025,_14_16_[Changes]" date="1759490167249" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_16_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 3.10.2025, 14.16 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM_[Changes]/shelved.patch	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,85 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/Project.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/Project.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/game.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/game.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExportToHTMLSettings\">\r\n    <option name=\"OUTPUT_DIRECTORY\" value=\"$PROJECT_DIR$/../Project\\exportToHTML\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;taraalleah03&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project.git&quot;,\r\n    &quot;accountId&quot;: &quot;cf55d315-9f25-4adc-ad65-422396939b3a&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"33SdWrtMWAurQMhWKCuL5tbH94y\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515\" />\r\n        <option value=\"bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\" />\r\n      <created>1759314441889</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1759314441889</updated>\r\n      <workItem from=\"1759314442944\" duration=\"227000\" />\r\n      <workItem from=\"1759314682025\" duration=\"679000\" />\r\n      <workItem from=\"1759329463818\" duration=\"301000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision a4e68450b6ff9fbf15cb92b7a533f1510b25b7be)
+-+++ b/.idea/workspace.xml	(date 1759337562806)
+-@@ -4,11 +4,7 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="">
+--      <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+--    </list>
+-+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="YES" />
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -21,6 +17,7 @@
+-     <option name="RECENT_TEMPLATES">
+-       <list>
+-         <option value="Python Script" />
+-+        <option value="Jupyter Notebook" />
+-       </list>
+-     </option>
+-   </component>
+-@@ -33,12 +30,12 @@
+-     &quot;assignee&quot;: &quot;taraalleah03&quot;
+-   }
+- }</component>
+--  <component name="GithubPullRequestsUISettings">{
+--  &quot;selectedUrlAndAccountId&quot;: {
+--    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project.git&quot;,
+--    &quot;accountId&quot;: &quot;cf55d315-9f25-4adc-ad65-422396939b3a&quot;
+-+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-+  "selectedUrlAndAccountId": {
+-+    "url": "https://github.com/taraalleah03/Project",
+-+    "accountId": "4da61798-13df-4906-9e5f-f9a71929efa8"
+-   }
+--}</component>
+-+}]]></component>
+-   <component name="ProjectColorInfo">{
+-   &quot;associatedIndex&quot;: 2
+- }</component>
+-@@ -80,7 +77,25 @@
+-       <workItem from="1759314442944" duration="227000" />
+-       <workItem from="1759314682025" duration="679000" />
+-       <workItem from="1759329463818" duration="301000" />
+-+      <workItem from="1759332812937" duration="881000" />
+-     </task>
+-+    <task id="LOCAL-00001" summary="YES">
+-+      <option name="closed" value="true" />
+-+      <created>1759332849084</created>
+-+      <option name="number" value="00001" />
+-+      <option name="presentableId" value="LOCAL-00001" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1759332849084</updated>
+-+    </task>
+-+    <task id="LOCAL-00002" summary="YES">
+-+      <option name="closed" value="true" />
+-+      <created>1759333079021</created>
+-+      <option name="number" value="00002" />
+-+      <option name="presentableId" value="LOCAL-00002" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1759333079021</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="3" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -97,4 +112,8 @@
+-       </map>
+-     </option>
+-   </component>
+-+  <component name="VcsManagerConfiguration">
+-+    <MESSAGE value="YES" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="YES" />
+-+  </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_09_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_09_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_09_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_09_[Changes]/shelved.patch	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,77 +0,0 @@
+-Index: game.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>#import all necessary modules/libraries\r\nimport mariadb\r\nimport time\r\nimport random\r\nconnection = mariadb.connect(\r\n    host = '127.0.0.1',\r\n    port = 3306,\r\n    user = 'root',\r\n    password = 'princess',\r\n    database = 'flight_game',\r\n    autocommit = True)\r\ndef countdown_timer(seconds):\r\n    while seconds:\r\n        mins, secs = divmod(seconds, 60)\r\n        timer = f\"{mins:02d}:{secs:02d}\"\r\n        print(timer, end=\"\\r\")\r\n        time.sleep(1)\r\n        seconds -= 1\r\n\r\n    print(\"Time's up, the farmer got you!\")\r\n    countdown_timer(90)\r\n\r\n#Connect to database\r\n\r\n\r\n#Introduction to the game\r\n\r\n\r\n#User inputs name\r\n#Rules of the game\r\n\r\n\r\n#Main game\r\n\r\n#List of countries to choose from (get the list of countries from database)\r\n\r\n\r\n#To move to another country solve a puzzle\r\n\r\n\r\n#If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.\r\n\r\n\r\n#Ending\r\n\r\n#If the cow wins the game prints out “ Farmer in jail “\r\n#If the cow loses the farmer says something like “Dinner time”
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/game.py b/game.py
+---- a/game.py	(revision 51696b72edbef7f91901386d88bd69693b4427b1)
+-+++ b/game.py	(date 1759489626963)
+-@@ -20,12 +20,13 @@
+-     print("Time's up, the farmer got you!")
+-     countdown_timer(90)
+- 
+--#Connect to database
+-+
+- 
+- 
+- #Introduction to the game
+- 
+- 
+-+
+- #User inputs name
+- #Rules of the game
+- 
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"continue!\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/game.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/game.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExportToHTMLSettings\">\r\n    <option name=\"OUTPUT_DIRECTORY\" value=\"$PROJECT_DIR$/../Project\\exportToHTML\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;taraalleah03&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,\r\n    &quot;accountId&quot;: &quot;2c885bae-dacc-4da8-80ac-62fdbd2ba333&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"33SdWrtMWAurQMhWKCuL5tbH94y\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;Python.game.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515\" />\r\n        <option value=\"bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\" />\r\n      <created>1759314441889</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1759314441889</updated>\r\n      <workItem from=\"1759314442944\" duration=\"227000\" />\r\n      <workItem from=\"1759314682025\" duration=\"679000\" />\r\n      <workItem from=\"1759329463818\" duration=\"301000\" />\r\n      <workItem from=\"1759485650903\" duration=\"3443000\" />\r\n    </task>\r\n    <task id=\"LOCAL−00001\" summary=\"continue!\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1759487060595</created>\r\n      <option name=\"number\" value=\"LOCAL−00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00001\" />\r\n      <updated>1759487060595</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00002\" summary=\"continue!\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1759487172489</created>\r\n      <option name=\"number\" value=\"LOCAL−00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00002\" />\r\n      <updated>1759487172489</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"continue!\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"continue!\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/Project$game.coverage\" NAME=\"game Coverage Results\" MODIFIED=\"1759489082450\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 51696b72edbef7f91901386d88bd69693b4427b1)
+-+++ b/.idea/workspace.xml	(date 1759489627413)
+-@@ -5,7 +5,6 @@
+-   </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="continue!">
+--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-@@ -80,7 +79,7 @@
+-       <workItem from="1759314442944" duration="227000" />
+-       <workItem from="1759314682025" duration="679000" />
+-       <workItem from="1759329463818" duration="301000" />
+--      <workItem from="1759485650903" duration="3443000" />
+-+      <workItem from="1759485650903" duration="3781000" />
+-     </task>
+-     <task id="LOCAL−00001" summary="continue!">
+-       <option name="closed" value="true" />
+-@@ -96,7 +95,14 @@
+-       <option name="presentableId" value="LOCAL−00002" />
+-       <updated>1759487172489</updated>
+-     </task>
+--    <option name="localTasksCounter" value="3" />
+-+    <task id="LOCAL−00003" summary="continue!">
+-+      <option name="closed" value="true" />
+-+      <created>1759489364842</created>
+-+      <option name="number" value="LOCAL−00003" />
+-+      <option name="presentableId" value="LOCAL−00003" />
+-+      <updated>1759489364842</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="4" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -118,6 +124,6 @@
+-     <option name="LAST_COMMIT_MESSAGE" value="continue!" />
+-   </component>
+-   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+--    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759489082450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-+    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759489378802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-   </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_08__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_08__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_08__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_08__Changes_.xml	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_3_10_2025,_14_08_[Changes]" date="1759489734970" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_08_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 3.10.2025, 14.08 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_08_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_08_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_08_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_08_[Changes]/shelved.patch	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,118 +0,0 @@
+-Index: game.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>#import all necessary modules/libraries\nimport mariadb\nimport time\nimport random\nconnection = mariadb.connect(\n    host = '127.0.0.1',\n    port = 3306,\n    user = 'root',\n    password = 'princess',\n    database = 'flight_game',\n    autocommit = True)\ndef countdown_timer(seconds):\n    while seconds:\n        mins, secs = divmod(seconds, 60)\n        timer = f\"{mins:02d}:{secs:02d}\"\n        print(timer, end=\"\\r\")\n        time.sleep(1)\n        seconds -= 1\n\n    print(\"Time's up, the farmer got you!\")\n    countdown_timer(90)\n\n#Connect to database\n\n\n#Introduction to the game\n\n\n#User inputs name\n#Rules of the game\n\n\n#Main game\n\n#List of countries to choose from (get the list of countries from database)\n\n\n#To move to another country solve a puzzle\n\n\n#If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.\n\n\n#Ending\n\n#If the cow wins the game prints out “ Farmer in jail “\n#If the cow loses the farmer says something like “Dinner time”
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/game.py b/game.py
+---- a/game.py	(revision 51696b72edbef7f91901386d88bd69693b4427b1)
+-+++ b/game.py	(date 1759489399920)
+-@@ -1,7 +1,6 @@
+- #import all necessary modules/libraries
+- import mariadb
+--import time
+--import random
+-+import timer
+- connection = mariadb.connect(
+-     host = '127.0.0.1',
+-     port = 3306,
+-@@ -9,19 +8,7 @@
+-     password = 'princess',
+-     database = 'flight_game',
+-     autocommit = True)
+--def countdown_timer(seconds):
+--    while seconds:
+--        mins, secs = divmod(seconds, 60)
+--        timer = f"{mins:02d}:{secs:02d}"
+--        print(timer, end="\r")
+--        time.sleep(1)
+--        seconds -= 1
+--
+--    print("Time's up, the farmer got you!")
+--    countdown_timer(90)
+--
+--#Connect to database
+--
+-+print("Connected to Maria db!")
+- 
+- #Introduction to the game
+- 
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"continue!\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/game.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/game.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExportToHTMLSettings\">\n    <option name=\"OUTPUT_DIRECTORY\" value=\"$PROJECT_DIR$/../Project\\exportToHTML\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;taraalleah03&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,\n    &quot;accountId&quot;: &quot;2c885bae-dacc-4da8-80ac-62fdbd2ba333&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"33SdWrtMWAurQMhWKCuL5tbH94y\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\n    &quot;Python.game.executor&quot;: &quot;Run&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515\" />\n        <option value=\"bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\" />\n      <created>1759314441889</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1759314441889</updated>\n      <workItem from=\"1759314442944\" duration=\"227000\" />\n      <workItem from=\"1759314682025\" duration=\"679000\" />\n      <workItem from=\"1759329463818\" duration=\"301000\" />\n      <workItem from=\"1759485650903\" duration=\"3443000\" />\n    </task>\n    <task id=\"LOCAL−00001\" summary=\"continue!\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1759487060595</created>\n      <option name=\"number\" value=\"LOCAL−00001\" />\n      <option name=\"presentableId\" value=\"LOCAL−00001\" />\n      <updated>1759487060595</updated>\n    </task>\n    <task id=\"LOCAL−00002\" summary=\"continue!\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1759487172489</created>\n      <option name=\"number\" value=\"LOCAL−00002\" />\n      <option name=\"presentableId\" value=\"LOCAL−00002\" />\n      <updated>1759487172489</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"continue!\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"continue!\" />\n  </component>\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\n    <SUITE FILE_PATH=\"coverage/Project$game.coverage\" NAME=\"game Coverage Results\" MODIFIED=\"1759489082450\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\n  </component>\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 51696b72edbef7f91901386d88bd69693b4427b1)
+-+++ b/.idea/workspace.xml	(date 1759489589601)
+-@@ -4,7 +4,7 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="continue!">
+-+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="">
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+-     </list>
+-@@ -32,12 +32,12 @@
+-     &quot;assignee&quot;: &quot;taraalleah03&quot;
+-   }
+- }</component>
+--  <component name="GithubPullRequestsUISettings">{
+--  &quot;selectedUrlAndAccountId&quot;: {
+--    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,
+--    &quot;accountId&quot;: &quot;2c885bae-dacc-4da8-80ac-62fdbd2ba333&quot;
+--  }
+--}</component>
+-+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-+  "selectedUrlAndAccountId": {
+-+    "url": "https://github.com/taraalleah03/Project",
+-+    "accountId": "14400487-c8d2-45ad-84f7-30f2d24929eb"
+-+  }
+-+}]]></component>
+-   <component name="ProjectColorInfo">{
+-   &quot;associatedIndex&quot;: 2
+- }</component>
+-@@ -80,23 +80,9 @@
+-       <workItem from="1759314442944" duration="227000" />
+-       <workItem from="1759314682025" duration="679000" />
+-       <workItem from="1759329463818" duration="301000" />
+--      <workItem from="1759485650903" duration="3443000" />
+--    </task>
+--    <task id="LOCAL−00001" summary="continue!">
+--      <option name="closed" value="true" />
+--      <created>1759487060595</created>
+--      <option name="number" value="LOCAL−00001" />
+--      <option name="presentableId" value="LOCAL−00001" />
+--      <updated>1759487060595</updated>
+--    </task>
+--    <task id="LOCAL−00002" summary="continue!">
+--      <option name="closed" value="true" />
+--      <created>1759487172489</created>
+--      <option name="number" value="LOCAL−00002" />
+--      <option name="presentableId" value="LOCAL−00002" />
+--      <updated>1759487172489</updated>
+-+      <workItem from="1759485650903" duration="1375000" />
+-+      <workItem from="1759489573154" duration="17000" />
+-     </task>
+--    <option name="localTasksCounter" value="3" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -113,11 +99,7 @@
+-       </map>
+-     </option>
+-   </component>
+--  <component name="VcsManagerConfiguration">
+--    <MESSAGE value="continue!" />
+--    <option name="LAST_COMMIT_MESSAGE" value="continue!" />
+--  </component>
+-   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+--    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759489082450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-+    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759486954029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-   </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_44__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_44__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_44__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_44__Changes_.xml	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_3_10_2025_14_44_[Changes]" date="1759491897200" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_44_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 3.10.2025 14.44 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_03_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_03_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_03_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_03_[Changes]/shelved.patch	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,87 +0,0 @@
+-Index: game.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>#import all necessary modules/libraries\nimport mariadb\nimport timer\nconnection = mariadb.connect(\n    host = '127.0.0.1',\n    port = 3306,\n    user = 'root',\n    password = 'princess',\n    database = 'flight_game',\n    autocommit = True)\nprint(\"Connected to Maria db!\")\n\n#Introduction to the game\n\n\n#User inputs name\n#Rules of the game\n\n\n#Main game\n\n#List of countries to choose from (get the list of countries from database)\n\n\n#To move to another country solve a puzzle\n\n\n#If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.\n\n\n#Ending\n\n#If the cow wins the game prints out “ Farmer in jail “\n#If the cow loses the farmer says something like “Dinner time”
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/game.py b/game.py
+---- a/game.py	(revision 5ba85ba7e0cf8e6e046f19b917cc6ea5b51c6b68)
+-+++ b/game.py	(date 1759489394374)
+-@@ -1,6 +1,7 @@
+- #import all necessary modules/libraries
+- import mariadb
+- import timer
+-+
+- connection = mariadb.connect(
+-     host = '127.0.0.1',
+-     port = 3306,
+-@@ -23,7 +24,22 @@
+- 
+- 
+- #To move to another country solve a puzzle
+-+puzzles = {
+-+    "What is 25 x 11? ": "171",
+-+    "What color do you get by mixing red and blue? ": "purple",
+-+    "What is the capital of France? ": "paris",
+-+    "How many legs does a cow have? ": "4",
+-+    "What is 10 - 3? ": "7",
+-+    "What is 'Thank you' in Finnish ": "kiitos",
+-+    "Is Cleopatra from India? ": "no",
+-+    "What language do Japanese people speak ": "japanese"
+-+}
+-+lives = 3
+-+time_limit = 90
+-+start_time = time.time()
+- 
+-+print("The cow needs to solve puzzles to travel to another country!")
+-+print("You have 3 lives and 90 seconds. Wrong answer = lose 1 life.")
+- 
+- #If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.
+- 
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/game.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/game.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExportToHTMLSettings\">\n    <option name=\"OUTPUT_DIRECTORY\" value=\"$PROJECT_DIR$/../Project\\exportToHTML\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;taraalleah03&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,\n    &quot;accountId&quot;: &quot;2c885bae-dacc-4da8-80ac-62fdbd2ba333&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"33SdWrtMWAurQMhWKCuL5tbH94y\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\n    &quot;Python.game.executor&quot;: &quot;Run&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515\" />\n        <option value=\"bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\" />\n      <created>1759314441889</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1759314441889</updated>\n      <workItem from=\"1759314442944\" duration=\"227000\" />\n      <workItem from=\"1759314682025\" duration=\"679000\" />\n      <workItem from=\"1759329463818\" duration=\"301000\" />\n      <workItem from=\"1759485650903\" duration=\"1375000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\n    <SUITE FILE_PATH=\"coverage/Project$game.coverage\" NAME=\"game Coverage Results\" MODIFIED=\"1759486954029\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\n  </component>\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 5ba85ba7e0cf8e6e046f19b917cc6ea5b51c6b68)
+-+++ b/.idea/workspace.xml	(date 1759489394417)
+-@@ -34,8 +34,8 @@
+- }</component>
+-   <component name="GithubPullRequestsUISettings">{
+-   &quot;selectedUrlAndAccountId&quot;: {
+--    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,
+--    &quot;accountId&quot;: &quot;2c885bae-dacc-4da8-80ac-62fdbd2ba333&quot;
+-+    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project.git&quot;,
+-+    &quot;accountId&quot;: &quot;cf55d315-9f25-4adc-ad65-422396939b3a&quot;
+-   }
+- }</component>
+-   <component name="ProjectColorInfo">{
+-@@ -49,7 +49,6 @@
+-   <component name="PropertiesComponent">{
+-   &quot;keyToString&quot;: {
+-     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+--    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+-     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-@@ -80,7 +79,6 @@
+-       <workItem from="1759314442944" duration="227000" />
+-       <workItem from="1759314682025" duration="679000" />
+-       <workItem from="1759329463818" duration="301000" />
+--      <workItem from="1759485650903" duration="1375000" />
+-     </task>
+-     <servers />
+-   </component>
+-@@ -98,7 +96,4 @@
+-       </map>
+-     </option>
+-   </component>
+--  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+--    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759486954029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+--  </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM__Changes_.xml	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM_[Changes]" date="1759489552950" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 10/3/2025 2:05 PM [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_26_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_26_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_26_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_26_[Changes]/shelved.patch	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,83 +0,0 @@
+-Index: game.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>#import all necessary modules/libraries\nimport mariadb\nimport time\nimport random\nconnection = mariadb.connect(\n    host = '127.0.0.1',\n    port = 3306,\n    user = 'root',\n    password = 'princess',\n    database = 'flight_game',\n    autocommit = True)\nprint(\"Connected to Maria db!\")\n\n#Introduction to the game\n\n\n#User inputs name\n#Rules of the game\n\n\n#Main game\n\n#List of countries to choose from (get the list of countries from database)\n\n\n#To move to another country solve a puzzle\npuzzles = {\n    \"What is 25 x 11? \": \"171\",\n    \"What color do you get by mixing red and blue? \": \"purple\",\n    \"What is the capital of France? \": \"paris\",\n    \"How many legs does a cow have? \": \"4\",\n    \"What is 10 - 3? \": \"7\",\n    \"What is 'Thank you' in Finnish \": \"kiitos\",\n    \"Is Cleopatra from India? \": \"no\",\n    \"What language do Japanese people speak \": \"japanese\"\n}\n### game rules and timer\nlives = 3\ntime_limit = 90\nstart_time = time.time()\n\nprint(\"The cow needs to solve puzzles to travel to another country!\")\nprint(\"You have 3 lives and 90 seconds. Wrong answer = lose 1 life.\")\n\nwhile lives > 0:\n\n    elapsed = time.time() - start_time\n    if elapsed >= time_limit:\n        print(\"\\n Time’s up! The farmer catches the cow. Dinner time!\uFE0F\")\n        break\n\n\n    puzzle, answer = random.choice(list(puzzles.items()))\n    user_answer = input(f\"\\n Puzzle: {puzzle} \").lower().strip()\n\n    if user_answer == answer:\n        print(\"Correct! You can travel to another country.\")\n        country: input(\"Which country do you want to go to? \").strip()\n        print(f\"The cow travels to {country}\")\n    else:\n        lives -= 1\n        print(f\"Wrong! You lose a life.Lives left: {lives}\")\n        if lives > 0:\n            next_country = input(\"Choose another country to try: \").strip()\n            print(f\"The cow travels to {next_country}\")\n\nif lives == 0:\n    print(\"\\n You have no lives left. The farmer catched the cow!!! Dinner time!\")\n\n#If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.\n\n\n#Ending\n\n#If the cow wins the game prints out “ Farmer in jail “\n\"\"\"if \"?\" == \"?\":\n    print(\"The has been captured\")\"\"\"\n\n#If the cow loses the farmer says something like “Dinner time”\n\"\"\"elif \"!\" == \"!\":\"\"\"\n    message = random.randint(1, 3)\n\n    if message == 1:\n        print(\"FARMER: IT'S DINNER TIME!\")\n    elif message == 2:\n        print(\"FARMER: WE'RE HAVING GOOD STEAK TONIGHT!\")\n    elif message == 3:\n        print(\"DINNER IS SERVED\")\n
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/game.py b/game.py
+---- a/game.py	(revision 9f527de74bff34cf838edb5f8fb60241f0e8b749)
+-+++ b/game.py	(date 1759490782599)
+-@@ -38,6 +38,7 @@
+- lives = 3
+- time_limit = 90
+- start_time = time.time()
+-+question_count = 0
+- 
+- print("The cow needs to solve puzzles to travel to another country!")
+- print("You have 3 lives and 90 seconds. Wrong answer = lose 1 life.")
+-@@ -45,10 +46,15 @@
+- while lives > 0:
+- 
+-     elapsed = time.time() - start_time
+--    if elapsed >= time_limit:
+--        print("\n Time’s up! The farmer catches the cow. Dinner time!️")
+-+    remaining_time = int(time_limit - elapsed)
+-+    if remaining_time <= 0:
+-+        print("\nTime’s up! The farmer catches the cow. Dinner time!")
+-         break
+- 
+-+    question_count += 1
+-+    if question_count % 3 == 0:
+-+        print(f"\n Announcement: {remaining_time} seconds left! Hurry up!")
+-+
+- 
+-     puzzle, answer = random.choice(list(puzzles.items()))
+-     user_answer = input(f"\n Puzzle: {puzzle} ").lower().strip()
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/game.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/game.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExportToHTMLSettings\">\n    <option name=\"OUTPUT_DIRECTORY\" value=\"$PROJECT_DIR$/../Project\\exportToHTML\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;taraalleah03&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,\n    &quot;accountId&quot;: &quot;2c885bae-dacc-4da8-80ac-62fdbd2ba333&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"33SdWrtMWAurQMhWKCuL5tbH94y\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\n    &quot;Python.game.executor&quot;: &quot;Run&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515\" />\n        <option value=\"bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\" />\n      <created>1759314441889</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1759314441889</updated>\n      <workItem from=\"1759314442944\" duration=\"227000\" />\n      <workItem from=\"1759314682025\" duration=\"679000\" />\n      <workItem from=\"1759329463818\" duration=\"301000\" />\n      <workItem from=\"1759485650903\" duration=\"1375000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\n    <SUITE FILE_PATH=\"coverage/Project$game.coverage\" NAME=\"game Coverage Results\" MODIFIED=\"1759486954029\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\n  </component>\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 9f527de74bff34cf838edb5f8fb60241f0e8b749)
+-+++ b/.idea/workspace.xml	(date 1759490531632)
+-@@ -4,8 +4,7 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="">
+--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="hi">
+-       <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-@@ -82,6 +81,15 @@
+-       <workItem from="1759329463818" duration="301000" />
+-       <workItem from="1759485650903" duration="1375000" />
+-     </task>
+-+    <task id="LOCAL-00001" summary="hi">
+-+      <option name="closed" value="true" />
+-+      <created>1759490225010</created>
+-+      <option name="number" value="00001" />
+-+      <option name="presentableId" value="LOCAL-00001" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1759490225010</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="2" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -97,6 +105,10 @@
+-         </entry>
+-       </map>
+-     </option>
+-+  </component>
+-+  <component name="VcsManagerConfiguration">
+-+    <MESSAGE value="hi" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
+-   </component>
+-   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-     <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759486954029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM_[Changes]/shelved.patch	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ /dev/null	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
+@@ -1,134 +0,0 @@
+-Index: game.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+>#import all necessary modules/libraries\r\nimport mariadb\r\nimport timer\r\nconnection = mariadb.connect(\r\n    host = '127.0.0.1',\r\n    port = 3306,\r\n    user = 'root',\r\n    password = 'princess',\r\n    database = 'flight_game',\r\n    autocommit = True)\r\nprint(\"Connected to Maria db!\")\r\n\r\n#Introduction to the game\r\n\r\n\r\n#User inputs name\r\n#Rules of the game\r\n\r\n\r\n#Main game\r\n\r\n#List of countries to choose from (get the list of countries from database)\r\n\r\n\r\n#To move to another country solve a puzzle\r\n\r\n\r\n#If the cow loses all three lives or if the timer runs out =  the farmer catches the cow.\r\n\r\n\r\n#Ending\r\n\r\n#If the cow wins the game prints out “ Farmer in jail “\r\n#If the cow loses the farmer says something like “Dinner time”
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/game.py b/game.py
+---- a/game.py	(revision 5ba85ba7e0cf8e6e046f19b917cc6ea5b51c6b68)
+-+++ b/game.py	(date 1759488916079)
+-@@ -31,4 +31,10 @@
+- #Ending
+- 
+- #If the cow wins the game prints out “ Farmer in jail “
+--#If the cow loses the farmer says something like “Dinner time”
+-\ No newline at end of file
+-+if "?" == "?":
+-+    print("The has been captured")
+-+
+-+#If the cow loses the farmer says something like “Dinner time”
+-+elif "!" == "!":
+-+
+-+    print("FARMER: IT'S DINNER TIME!")
+-\ No newline at end of file
+-Index: test.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/test.py b/test.py
+-new file mode 100644
+---- /dev/null	(date 1759489377727)
+-+++ b/test.py	(date 1759489377727)
+-@@ -0,0 +1,13 @@
+-+import random
+-+
+-+
+-+
+-+message = random.randint(1,3)
+-+
+-+if message == 1:
+-+    print("FARMER: IT'S DINNER TIME!")
+-+elif message == 2:
+-+    print("FARMER: WE'RE HAVING GOOD STEAK TONIGHT!")
+-+elif message == 3:
+-+    print("DINNER IS SERVED")
+-+
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/game.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/game.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExportToHTMLSettings\">\r\n    <option name=\"OUTPUT_DIRECTORY\" value=\"$PROJECT_DIR$/../Project\\exportToHTML\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;taraalleah03&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,\r\n    &quot;accountId&quot;: &quot;2c885bae-dacc-4da8-80ac-62fdbd2ba333&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"33SdWrtMWAurQMhWKCuL5tbH94y\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;Python.game.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515\" />\r\n        <option value=\"bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\" />\r\n      <created>1759314441889</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1759314441889</updated>\r\n      <workItem from=\"1759314442944\" duration=\"227000\" />\r\n      <workItem from=\"1759314682025\" duration=\"679000\" />\r\n      <workItem from=\"1759329463818\" duration=\"301000\" />\r\n      <workItem from=\"1759485650903\" duration=\"1375000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/Project$game.coverage\" NAME=\"game Coverage Results\" MODIFIED=\"1759486954029\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 5ba85ba7e0cf8e6e046f19b917cc6ea5b51c6b68)
+-+++ b/.idea/workspace.xml	(date 1759489545943)
+-@@ -5,6 +5,7 @@
+-   </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="">
+-+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+-     </list>
+-@@ -34,8 +35,8 @@
+- }</component>
+-   <component name="GithubPullRequestsUISettings">{
+-   &quot;selectedUrlAndAccountId&quot;: {
+--    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,
+--    &quot;accountId&quot;: &quot;2c885bae-dacc-4da8-80ac-62fdbd2ba333&quot;
+-+    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project.git&quot;,
+-+    &quot;accountId&quot;: &quot;cf55d315-9f25-4adc-ad65-422396939b3a&quot;
+-   }
+- }</component>
+-   <component name="ProjectColorInfo">{
+-@@ -46,22 +47,24 @@
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-   </component>
+--  <component name="PropertiesComponent">{
+--  &quot;keyToString&quot;: {
+--    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+--    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+--    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+--    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+--    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+--    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+--    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+--    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+--    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+--    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+--    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+-+  <component name="PropertiesComponent"><![CDATA[{
+-+  "keyToString": {
+-+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-+    "Python.game.executor": "Run",
+-+    "Python.test.executor": "Run",
+-+    "RunOnceActivity.ShowReadmeOnStart": "true",
+-+    "RunOnceActivity.git.unshallow": "true",
+-+    "git-widget-placeholder": "master",
+-+    "last_opened_file_path": "C:/Users/ADMIN/PycharmProjects/Project",
+-+    "node.js.detected.package.eslint": "true",
+-+    "node.js.detected.package.tslint": "true",
+-+    "node.js.selected.package.eslint": "(autodetect)",
+-+    "node.js.selected.package.tslint": "(autodetect)",
+-+    "nodejs_package_manager_path": "npm",
+-+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+-+    "vue.rearranger.settings.migration": "true"
+-   }
+--}</component>
+-+}]]></component>
+-   <component name="SharedIndexes">
+-     <attachedChunks>
+-       <set>
+-@@ -80,7 +83,6 @@
+-       <workItem from="1759314442944" duration="227000" />
+-       <workItem from="1759314682025" duration="679000" />
+-       <workItem from="1759329463818" duration="301000" />
+--      <workItem from="1759485650903" duration="1375000" />
+-     </task>
+-     <servers />
+-   </component>
+-@@ -99,6 +101,7 @@
+-     </option>
+-   </component>
+-   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+--    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759486954029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-+    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759488411874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-+    <SUITE FILE_PATH="coverage/Project$test.coverage" NAME="test Coverage Results" MODIFIED="1759489379738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-   </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\":^)\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/Project.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/Project.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/joshua_testcode.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/joshua_testcode.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExportToHTMLSettings\">\r\n    <option name=\"OUTPUT_DIRECTORY\" value=\"$PROJECT_DIR$/../Project\\exportToHTML\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;taraalleah03&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project.git&quot;,\r\n    &quot;accountId&quot;: &quot;4da61798-13df-4906-9e5f-f9a71929efa8&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"33SdWrtMWAurQMhWKCuL5tbH94y\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;Python.game.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.joshua_testcode.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.tara_testcode.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.test2.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515\" />\r\n        <option value=\"bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"96a1eb3b-035e-44c1-abac-01525dce9070\" name=\"Changes\" comment=\"\" />\r\n      <created>1759314441889</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1759314441889</updated>\r\n      <workItem from=\"1759314442944\" duration=\"227000\" />\r\n      <workItem from=\"1759314682025\" duration=\"679000\" />\r\n      <workItem from=\"1759329463818\" duration=\"301000\" />\r\n      <workItem from=\"1759572504830\" duration=\"9313000\" />\r\n      <workItem from=\"1759670198723\" duration=\"142000\" />\r\n      <workItem from=\"1759670387286\" duration=\"2318000\" />\r\n      <workItem from=\"1759687242479\" duration=\"7916000\" />\r\n      <workItem from=\"1759695597495\" duration=\"543000\" />\r\n      <workItem from=\"1759696159397\" duration=\"21000\" />\r\n      <workItem from=\"1759744217808\" duration=\"968000\" />\r\n      <workItem from=\"1759748501063\" duration=\"2987000\" />\r\n      <workItem from=\"1759830722653\" duration=\"584000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"update\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1759497138588</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1759497138588</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"update\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1759606099404</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1759606099404</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"update\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1759688968720</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1759688968720</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"update\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1759689794402</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1759689794402</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"UPDATE YIPEE\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1759695173311</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1759695173311</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"UPDATE YIPEE\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1759696172583</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1759696172583</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"UPDATE YIPEE\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1759744275964</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1759744275965</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"UPDATE YIPEE\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1759744353842</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1759744353842</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\":^)\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1759750569651</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1759750569651</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"10\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"update\" />\r\n    <MESSAGE value=\"UPDATE YIPEE\" />\r\n    <MESSAGE value=\":^)\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\":^)\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/test2.py</url>\r\n          <line>2</line>\r\n          <option name=\"timeStamp\" value=\"3\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/Project$game.coverage\" NAME=\"game Coverage Results\" MODIFIED=\"1759749806661\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/Project$tara_testcode.coverage\" NAME=\"tara_testcode Coverage Results\" MODIFIED=\"1759687351969\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/Project$test2.coverage\" NAME=\"test2 Coverage Results\" MODIFIED=\"1759695807435\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/Project$joshua_testcode.coverage\" NAME=\"joshua_testcode Coverage Results\" MODIFIED=\"1759750512250\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/Project$test.coverage\" NAME=\"test Coverage Results\" MODIFIED=\"1759490283591\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2de873b9c6d1d66928f70cd4d50a2e15c56e6d0a)
++++ b/.idea/workspace.xml	(date 1764792952693)
+@@ -5,10 +5,25 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment=":^)">
+-      <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_1_34_PM__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_3_2025_2_05_PM__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_01_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_03_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_08_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_16_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025,_14_26_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_09_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_09__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_44_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025_14_44__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_01__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_03__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_08__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_16__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_10_2025__14_26__Changes_.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/joshua_testcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/joshua_testcode.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -61,6 +76,7 @@
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/PycharmProjects/Project&quot;,
+     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+@@ -96,7 +112,10 @@
+       <workItem from="1759696159397" duration="21000" />
+       <workItem from="1759744217808" duration="968000" />
+       <workItem from="1759748501063" duration="2987000" />
+-      <workItem from="1759830722653" duration="584000" />
++      <workItem from="1759830722653" duration="815000" />
++      <workItem from="1759831550920" duration="22000" />
++      <workItem from="1764699146593" duration="162000" />
++      <workItem from="1764790761524" duration="1647000" />
+     </task>
+     <task id="LOCAL-00001" summary="update">
+       <option name="closed" value="true" />
+@@ -170,7 +189,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1759750569651</updated>
+     </task>
+-    <option name="localTasksCounter" value="10" />
++    <task id="LOCAL-00010" summary=":^)">
++      <option name="closed" value="true" />
++      <created>1759831454224</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1759831454224</updated>
++    </task>
++    <option name="localTasksCounter" value="11" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -208,7 +235,7 @@
+     <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759749806661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+     <SUITE FILE_PATH="coverage/Project$tara_testcode.coverage" NAME="tara_testcode Coverage Results" MODIFIED="1759687351969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+     <SUITE FILE_PATH="coverage/Project$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1759695807435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+-    <SUITE FILE_PATH="coverage/Project$joshua_testcode.coverage" NAME="joshua_testcode Coverage Results" MODIFIED="1759750512250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
++    <SUITE FILE_PATH="coverage/Project$joshua_testcode.coverage" NAME="joshua_testcode Coverage Results" MODIFIED="1759831247984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+     <SUITE FILE_PATH="coverage/Project$test.coverage" NAME="test Coverage Results" MODIFIED="1759490283591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+   </component>
+ </project>
+\ No newline at end of file

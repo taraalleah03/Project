@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Final_Project/Tara/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Tara/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Tara/game.html" afterDir="false" />
+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment=":^)">
+      <change afterPath="$PROJECT_DIR$/Final_Project/Joshua/prototype.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/Joshua/prototype.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +19,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -53,7 +51,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.game.executor": "Run",
     "Python.tara_testcode.executor": "Run",
@@ -62,6 +59,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ADMIN/PycharmProjects/Project/Final_Project/Joshua",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -108,7 +106,7 @@
       <workItem from="1764850228931" duration="1189000" />
       <workItem from="1764855221496" duration="715000" />
       <workItem from="1764925155863" duration="71000" />
-      <workItem from="1764933041802" duration="4832000" />
+      <workItem from="1764933041802" duration="1702000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -182,13 +180,13 @@
       <option name="project" value="LOCAL" />
       <updated>1764933442234</updated>
     </task>
-    <task id="LOCAL-00010" summary="update">
+    <task id="LOCAL-00010" summary=":^)">
       <option name="closed" value="true" />
-      <created>1764935004079</created>
+      <created>1765110023670</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1764935004079</updated>
+      <updated>1765110023670</updated>
     </task>
     <option name="localTasksCounter" value="11" />
     <servers />
@@ -210,7 +208,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UPDATE YIPEE" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value=":^)" />
+    <option name="LAST_COMMIT_MESSAGE" value=":^)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
