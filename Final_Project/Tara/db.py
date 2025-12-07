@@ -29,5 +29,14 @@ def get_random_countries(connection, limit):
 
 @app.route('/api/start')
 def api_start():
-    #temporary list of countries
-    countries = []
+    data = request.json
+    guess = data.get("guess","").strip()
+    answer = data.get("answer","").strip()
+
+    if guess.lower() == answer.lower():
+        return jsonify({
+            "correct": True,
+            "message": f"Yipee, {answer} is correct! You found the country with the best grass!"
+        })
+
+    letter = random.choice
