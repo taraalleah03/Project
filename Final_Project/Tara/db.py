@@ -1,10 +1,9 @@
-from flask import Flask, render_template, request , jsonify
-import random
-app = Flask(__name__)
+import random, mariadb
+from flask import Flask, request , jsonify
+from flask_cors import CORS
 
-@app.route('/')
-def index():
-    return render_template("game.html")
+app = Flask(__name__)
+CORS(app)
 
 @app.route('/api/start')
 def api_start():
