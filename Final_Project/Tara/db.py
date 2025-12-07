@@ -27,6 +27,12 @@ def get_random_countries(connection, limit):
         countries[name] = {"continent": continent, "city": city}
     return countries
 
+@app.route('api/start')
+def api_start():
+    countries = get_random_countries(connection, 10)
+    best_country, details = random.choice(list(countries.items()))
+
+
 @app.route('/api/guess', methods=["POST"])
 def api_guess():
     data = request.json
