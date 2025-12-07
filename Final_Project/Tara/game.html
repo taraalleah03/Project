@@ -5,8 +5,34 @@
     <title>Game</title>
 </head>
 <body>
-    <script>
+    <button id ="start_btn">Start!</button>
 
+    <div id ="countries">
+        <!--This is where the randomized list of countries will be displayed-->
+    </div>
+
+    <input id="guess_ans" placeholder="Which country has the best grass?"/>
+    <button id="guess_btn">Submit</button>
+
+    <p id ="result"></p>
+    <p id ="hint"></p>
+
+    <script>
+        let answer = null;
+
+        //Game starts when user click start_btn
+        document.getElementById("start_btn").onclick = async() => {
+            const res = await fetch("/api/start");
+            const data = await res.json();
+
+            answer = data.answer;
+
+            const list = document.getElementById("countries");
+            list.innerHTML = "Countries to choose from:<br>" + data.countries.join("<br>");
+
+            document.getElementById("result").textContent = "";
+            document.getElementById("hint").textContent = "";
+        }
 
     </script>
 
