@@ -27,8 +27,8 @@ def get_random_countries(connection, limit):
         countries[name] = {"continent": continent, "city": city}
     return countries
 
-@app.route('/api/start')
-def api_start():
+@app.route('/api/guess', methods=["POST"])
+def api_guess():
     data = request.json
     guess = data.get("guess","").strip()
     answer = data.get("answer","").strip()
@@ -39,4 +39,12 @@ def api_start():
             "message": f"Yipee, {answer} is correct! You found the country with the best grass!"
         })
 
-    letter = random.choice
+    hint = random.choice(hints) if hints else "Wrong answer! Try again!"
+
+    return jsonify({
+        "correct": False,
+        "hint": hint,
+    })
+
+if __name__ == '__main__':
+    app.run(host="127.0.0.1",port=5000, debug=True)
