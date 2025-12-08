@@ -7,7 +7,7 @@ connection = mariadb.connect(
     host='127.0.0.1',
     port=3306,
     user='root',
-    password='bootsandcats',  # use own password here
+    password='taRamart!n2003thirty',  # use own password here
     database='flight_game',
     autocommit=True)
 # visual intro
@@ -151,7 +151,7 @@ else:
 
 # To move to another country solve a puzzle
 puzzles = {
-    "What is 25 x 11? ": "171",
+    "What is 25 x 11? ": "275",
     "What color do you get by mixing red and blue? ": "purple",
     "What is the capital of France? ": "paris",
     "How many legs does a cow have? ": "4",
