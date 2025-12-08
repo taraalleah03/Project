@@ -1,0 +1,98 @@
+
+body {
+    margin: 0;
+    background-color: #fff7df;
+    font-family: "Arial Rounded MT Bold", Arial, sans-serif;
+}
+
+.header {
+    background-color: #9ec4c5;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 60px;
+}
+
+.logo {
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+}
+
+.nav a {
+    margin-left: 40px;
+    color: white;
+    text-decoration: none;
+    font-size: 26px;
+    letter-spacing: 2px;
+}
+
+.footer {
+    background-color: #9ec4c5;
+    height: 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+}
+
+.footer-left {
+    display: flex;
+    gap: 25px;
+}
+
+.footer-left img {
+    width: 85px;
+}
+
+.footer-right {
+    color: white;
+    font-size: 24px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+}
+
+.contact-wrapper {
+    width: 50%;
+    background-color: #6f8faa;
+    padding: 35px 20px;
+    border-radius: 40px;
+    color: white;
+    text-align: center;
+}
+
+.contact-title {
+    font-size: 34px;
+    margin-bottom: 40px;
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px 80px;
+    justify-items: center;
+    align-items: center;
+}
+
+.contact-item {
+    text-align: center;
+}
+
+.contact-item a img {
+    width: 140px;
+    transition: transform 0.2s;
+}
+
+.contact-item a img:hover {
+    transform: scale(1.08);
+}
+
+.contact-item h3 {
+    margin-top: 10px;
+    font-size: 20px;
+}
