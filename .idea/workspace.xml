@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/Final_Project/Clary/example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project/Clary/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Clary/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Clary/contact.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final_Project/Clary/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Clary/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +37,12 @@
     &quot;assignee&quot;: &quot;taraalleah03&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project.git&quot;,
-    &quot;accountId&quot;: &quot;cf55d315-9f25-4adc-ad65-422396939b3a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/taraalleah03/Project",
+    "accountId": "14400487-c8d2-45ad-84f7-30f2d24929eb"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -205,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765197799293</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1">
+      <option name="closed" value="true" />
+      <created>1765203198659</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765203198659</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +235,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UPDATE YIPEE" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
