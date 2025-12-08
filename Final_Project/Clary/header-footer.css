@@ -1,4 +1,3 @@
-/* RESET */
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +5,6 @@
     font-family: "Arial Rounded MT Bold", Arial, sans-serif;
 }
 
-/* PAGE BACKGROUND */
 body {
     background-color: #FFF7DD;
     display: flex;
@@ -14,7 +12,6 @@ body {
     min-height: 100vh;
 }
 
-/* HEADER */
 .header {
     background-color: #91C4C3;
     height: 100px;
@@ -24,7 +21,6 @@ body {
     padding: 0 60px;
 }
 
-/* LOGO */
 .logo {
     font-size: 48px;
     color: white;
@@ -40,8 +36,6 @@ body {
     100% { transform: scale(1); }
 }
 
-
-/* NAVIGATION */
 .nav a {
     text-decoration: none;
     color: white;
@@ -50,12 +44,10 @@ body {
     letter-spacing: 1px;
 }
 
-/* EMPTY CONTENT AREA */
 .content {
     flex: 1;
 }
 
-/* FOOTER */
 .footer {
     background-color: #91C4C3;
     height: 120px;
@@ -66,7 +58,6 @@ body {
     text-align: center;
 }
 
-/* Footer text */
 .footer {
     background-color: #a9cfcf;
     height: 120px;
@@ -76,7 +67,6 @@ body {
     justify-content: space-between;
 }
 
-/* Left text */
 .footer-left {
     display: flex;
     gap: 12px;
