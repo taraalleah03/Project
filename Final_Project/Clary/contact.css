@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-    background-color: #9ec4c5;
+    background-color: #91C4C3;
     height: 110px;
     display: flex;
     align-items: center;
@@ -29,7 +29,7 @@ body {
 }
 
 .footer {
-    background-color: #9ec4c5;
+    background-color: #91C4C3;
     height: 140px;
     display: flex;
     justify-content: space-between;
@@ -59,7 +59,7 @@ main {
 
 .contact-wrapper {
     width: 50%;
-    background-color: #6f8faa;
+    background-color: #80A1BA;
     padding: 35px 20px;
     border-radius: 40px;
     color: white;
