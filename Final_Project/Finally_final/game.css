@@ -111,6 +111,9 @@ body {
     align-items: center;
     justify-content: center;
     background-color: lightgray;
+    border-radius: 40px;
+    padding: 40px;
+    margin-top: 30px;
 }
 
 #timer {
@@ -170,6 +173,23 @@ ul{
 
 #guess{
     flex: 1 1 200px;
+    font-size: 1.5rem;
+}
+
+#gues_ans{
+    font-size: 1rem;
+}
+
+.input{
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 40px;
+}
+
+#answerInput{
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 40px;
 }
 
 .contact-wrapper-box {
@@ -179,3 +199,16 @@ ul{
     padding: 50px 40px;
     border-radius: 40px;
 }
+
+#start_btn{
+    font-size: 2rem;
+    border-radius: 40px;
+    padding: 10px 40px;
+}
+
+#guess_btn, #submitButton{
+    font-size: 1rem;
+    border-radius: 40px;
+    padding: 10px 40px;
+}
+
