@@ -11,7 +11,8 @@ let hints_list = [];
 let currentHintIndex = 0;
 
 document.getElementById("start_btn").onclick = async () => {
-document.getElementById("start_btn").disabled = true;
+    document.getElementById("start_btn").style.display = "none";
+
 
     if (!timerInterval) {
         timerInterval = setInterval(() => {
@@ -51,7 +52,8 @@ document.getElementById("start_btn").disabled = true;
     currentHintIndex = 0;
 
     document.getElementById("countries").innerHTML =
-        "Countries to choose from:<br>" + countryNames.join("<br>");
+        document.getElementById("countries").innerHTML + "<br><br>Countries to choose from:<br><br>" + countryNames.map(n => `${n}<div class='row-line'></div>`).join("<br>");
+        //added slight change to countries js to match look
 
     document.getElementById("result").textContent = "";
     document.getElementById("hint").textContent = "";
