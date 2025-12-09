@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Where's My Cow?!</title>
+
+    <link rel="stylesheet" href="homepage.css">
+</head>
+<body>
+    <header>Where's My Cow?!</header>
+    <div class="container">
+        <div class="rules">
+            <h2>Game Rules</h2>
+            <ul>
+                <li>You have 90 seconds per round.</li>
+                <li>You start with 3 lives.</li>
+                <li>Wrong answers cost a life, but you'll get a hint.</li>
+                <li>Choose which country to travel to next.</li>
+                <li>Find the best grass to win!</li>
+            </ul>
+        </div>
+
+        <div class="about">
+            <h2>About the Game</h2>
+            <p>
+                Have you ever wondered if cows can fly? Meet our adventurous cow called 'Medium Rare'.
+                She's escaping her farmer's barn, travelling the world in search of the world's best grass!
+            </p>
+            <p>
+                Solve puzzles, fly between countries, and help her stay ahead of the farmer.
+                Cute, clever and surprisingly educational. It's the perfect escape
+                from doom-scrolling!
+            </p>
+        </div>
+    </div>
+    <button class="start-btn" onclick="startGame()">Start Game</button>
+
+    <img class="float-cloud cloud1" src="cloud.webp" alt="Cloud">
+    <img class="float-cloud cloud2" src="cloud.webp" alt="Cloud">
+<!--    <img class="cloud1" src="cloud.webp" alt="Cloud" />-->
+<!--    <img class="cloud2" src="cloud.webp" alt="Cloud"/>-->
+
+    <img class="cow-img" src="cute_cow_doodle.png" alt="Cute cow" />
+    <img class="footsteps" src="footsteps.png" alt="Footsteps" />
+
+<script>
+    document.querySelector('.start-btn').addEventListener('click', () => {
+        alert('Game starting soon!');
+    });
+</script>
+<!--    <img class="float-cloud cloud1" src="cloud.webp" alt="Cloud" />-->
+<!--    <img class="float-cloud cloud2" src="cloud.webp" alt="Cloud" />-->
+
+<!--    <img class="cow-img" src="cute_cow_doodle.png" alt="Cute cow" />-->
+
+<!--    <img src="barn.png" alt="barn" style="position: absolute; right:40px; bottom:80px; width:260px; z-index:-1;" />-->
+<!--    <img src="airplane.png" alt="Airplane" style="position:absolute; top:90px; right:180px; width:140px; animation: cloudDrift 18s linear infinite;" />-->
+<!--    <img src="grass.png" alt="Grass" style="position:absolute; bottom:0; left:0; width:100%; z-index:-2;" />-->
+</body>
+</html>
