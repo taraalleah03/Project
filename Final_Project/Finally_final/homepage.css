@@ -3,9 +3,9 @@
             margin: 0;
             font-family: 'Comic Sans MS', 'Trebuchet MS', sans-serif;
 
-            background: url('airplane.png') 85% 10% / 140px no-repeat,
-            url('barn.png') 90% 70% / 180px no-repeat,
-            url('grass.png') bottom / 100% no-repeat,
+            background: url('Possible color palletes (1).png') 85% 10% / 140px no-repeat,
+            /*url('barn.png') 90% 70% / 180px no-repeat,*/
+            /*url('grass.png') bottom / 100% no-repeat,*/
             #b6e0ff;
             color: #4a3b2d;
             background-attachment: fixed;
