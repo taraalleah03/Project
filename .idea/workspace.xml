@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Clary/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Clary/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/header-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/header-footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.html" afterDir="false" />
-    </list>
+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -265,7 +258,8 @@
     <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="4" />
-    <option name="LAST_COMMIT_MESSAGE" value="4" />
+    <MESSAGE value="font change" />
+    <option name="LAST_COMMIT_MESSAGE" value="font change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
