@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Final_Project/Tara/own files/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/Tara/own files/game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/airplane_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/airport.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/country.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/country.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/datab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/country.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/country.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/country.js" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/country.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/datab.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/datab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765197799293</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update">
+      <option name="closed" value="true" />
+      <created>1765280565399</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765280565399</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
