@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/country.js" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/country.js" afterDir="false" />
-    </list>
+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -237,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765205513798</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update">
+      <option name="closed" value="true" />
+      <created>1765283417984</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765283417984</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,13 +261,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UPDATE YIPEE" />
-    <MESSAGE value="update" />
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="4" />
     <MESSAGE value="font change" />
-    <option name="LAST_COMMIT_MESSAGE" value="font change" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
