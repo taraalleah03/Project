@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="updateee">
-      <change afterPath="$PROJECT_DIR$/Final_Project/Finally_final/game.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/Finally_final/scoreboard.css" afterDir="false" />
+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="aother one">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/scoreboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/scoreboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/scoreboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/scoreboard.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765280519122</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="aother one">
+      <option name="closed" value="true" />
+      <created>1765280846163</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765280846163</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +280,8 @@
     <MESSAGE value="3" />
     <MESSAGE value="4" />
     <MESSAGE value="updateee" />
-    <option name="LAST_COMMIT_MESSAGE" value="updateee" />
+    <MESSAGE value="aother one" />
+    <option name="LAST_COMMIT_MESSAGE" value="aother one" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
