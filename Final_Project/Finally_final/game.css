@@ -72,12 +72,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
     color: white;
     text-align: center;
+    margin-top: auto;
 }
 
 .footer-left {
