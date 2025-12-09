@@ -72,6 +72,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
 }
 
 .footer-left {
@@ -107,16 +113,10 @@ body {
 }
 
 #timer {
-    position: absolute;
-    top: 10px;
-    right: 20px;
     font-size: 20px;
 }
 
 #lives {
-    position: absolute;
-    top: 10px;
-    left: 20px;
     font-size: 20px;
 }
 
