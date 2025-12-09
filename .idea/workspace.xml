@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Final_Project/Tara/own files/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/Tara/own files/game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/airplane_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/airport.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/country.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/country.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/datab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/country.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/country.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/country.js" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/country.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/datab.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH/datab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Clary/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Clary/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/header-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/header-footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +41,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project.git&quot;,
-    &quot;accountId&quot;: &quot;cf55d315-9f25-4adc-ad65-422396939b3a&quot;
+    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,
+    &quot;accountId&quot;: &quot;14400487-c8d2-45ad-84f7-30f2d24929eb&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -217,7 +209,39 @@
       <option name="project" value="LOCAL" />
       <updated>1765197799293</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1">
+      <option name="closed" value="true" />
+      <created>1765203198659</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765203198659</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2">
+      <option name="closed" value="true" />
+      <created>1765204821720</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1765204821720</updated>
+    </task>
+    <task id="LOCAL-00015" summary="3">
+      <option name="closed" value="true" />
+      <created>1765204857266</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765204857266</updated>
+    </task>
+    <task id="LOCAL-00016" summary="4">
+      <option name="closed" value="true" />
+      <created>1765205513798</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1765205513798</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +261,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UPDATE YIPEE" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="1" />
+    <MESSAGE value="2" />
+    <MESSAGE value="3" />
+    <MESSAGE value="4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -254,7 +282,6 @@
     <SUITE FILE_PATH="coverage/Project$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1759695807435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$tara_testcode.coverage" NAME="tara_testcode Coverage Results" MODIFIED="1759687351969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$test.coverage" NAME="test Coverage Results" MODIFIED="1759490283591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Project$datab.coverage" NAME="datab Coverage Results" MODIFIED="1765279280797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Final_Project/ZOO_NUT_TUCH_wcss" />
-    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1764850233471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759696068417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
