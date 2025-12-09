@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="4">
+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment=":^)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Clary/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Clary/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/header-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/header-footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/homepage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +19,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="JavaScript File" />
-        <option value="HTML File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -39,12 +31,12 @@
     &quot;assignee&quot;: &quot;taraalleah03&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/taraalleah03/Project&quot;,
-    &quot;accountId&quot;: &quot;14400487-c8d2-45ad-84f7-30f2d24929eb&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/taraalleah03/Project.git",
+    "accountId": "4da61798-13df-4906-9e5f-f9a71929efa8"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -58,16 +50,15 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.game.executor&quot;: &quot;Run&quot;,
     &quot;Python.tara_testcode.executor&quot;: &quot;Run&quot;,
     &quot;Python.test2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/tranpham/PycharmProjects/Project/Final_Project/Clary&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/PycharmProjects/Project/Final_Project/Joshua&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -79,12 +70,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Final_Project/Clary" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Final_Project/Clary" />
-      <recent name="$PROJECT_DIR$/Final_Project/Clary/photo" />
-      <recent name="$PROJECT_DIR$/Final_Project/Clary/audio" />
+      <recent name="C:\Users\ADMIN\PycharmProjects\Project\Final_Project\Joshua" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -112,6 +98,20 @@
       <workItem from="1759695597495" duration="543000" />
       <workItem from="1759696159397" duration="21000" />
       <workItem from="1759744217808" duration="968000" />
+      <workItem from="1760046268214" duration="862000" />
+      <workItem from="1760089163522" duration="35000" />
+      <workItem from="1761766914425" duration="314000" />
+      <workItem from="1764536335256" duration="1986000" />
+      <workItem from="1764666439823" duration="43000" />
+      <workItem from="1764673289748" duration="103000" />
+      <workItem from="1764673442163" duration="6000" />
+      <workItem from="1764674730061" duration="513000" />
+      <workItem from="1764677924267" duration="868000" />
+      <workItem from="1764850228931" duration="1189000" />
+      <workItem from="1764855221496" duration="715000" />
+      <workItem from="1764925155863" duration="71000" />
+      <workItem from="1764933041802" duration="1702000" />
+      <workItem from="1765129899480" duration="989000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -179,69 +179,29 @@
     </task>
     <task id="LOCAL-00009" summary="update">
       <option name="closed" value="true" />
-      <created>1765197432916</created>
+      <created>1764933442233</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1765197432916</updated>
+      <updated>1764933442234</updated>
     </task>
-    <task id="LOCAL-00010" summary="update">
+    <task id="LOCAL-00010" summary=":^)">
       <option name="closed" value="true" />
-      <created>1765197617965</created>
+      <created>1765110023670</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1765197617965</updated>
+      <updated>1765110023670</updated>
     </task>
-    <task id="LOCAL-00011" summary="update">
+    <task id="LOCAL-00011" summary=":^)">
       <option name="closed" value="true" />
-      <created>1765197742292</created>
+      <created>1765110123019</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1765197742292</updated>
+      <updated>1765110123019</updated>
     </task>
-    <task id="LOCAL-00012" summary="update">
-      <option name="closed" value="true" />
-      <created>1765197799293</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1765197799293</updated>
-    </task>
-    <task id="LOCAL-00013" summary="1">
-      <option name="closed" value="true" />
-      <created>1765203198659</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1765203198659</updated>
-    </task>
-    <task id="LOCAL-00014" summary="2">
-      <option name="closed" value="true" />
-      <created>1765204821720</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1765204821720</updated>
-    </task>
-    <task id="LOCAL-00015" summary="3">
-      <option name="closed" value="true" />
-      <created>1765204857266</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1765204857266</updated>
-    </task>
-    <task id="LOCAL-00016" summary="4">
-      <option name="closed" value="true" />
-      <created>1765205513798</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1765205513798</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,11 +221,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UPDATE YIPEE" />
     <MESSAGE value="update" />
-    <MESSAGE value="1" />
-    <MESSAGE value="2" />
-    <MESSAGE value="3" />
-    <MESSAGE value="4" />
-    <option name="LAST_COMMIT_MESSAGE" value="4" />
+    <MESSAGE value=":^)" />
+    <option name="LAST_COMMIT_MESSAGE" value=":^)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -282,6 +239,6 @@
     <SUITE FILE_PATH="coverage/Project$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1759695807435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$tara_testcode.coverage" NAME="tara_testcode Coverage Results" MODIFIED="1759687351969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$test.coverage" NAME="test Coverage Results" MODIFIED="1759490283591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1759696068417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1764850233471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
