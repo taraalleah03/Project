@@ -1,0 +1,22 @@
+#puzzleSection {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+}
+
+#timer {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 20px;
+}
+
+#lives {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    font-size: 20px;
+}
