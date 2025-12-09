@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/Final_Project/Clary/example.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_Project/Clary/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Clary/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Clary/contact.css" afterDir="false" />
+    <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final_Project/Clary/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Clary/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/Clary/header-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Clary/header-footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +214,31 @@
       <option name="project" value="LOCAL" />
       <updated>1765203198659</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2">
+      <option name="closed" value="true" />
+      <created>1765204821720</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1765204821720</updated>
+    </task>
+    <task id="LOCAL-00015" summary="3">
+      <option name="closed" value="true" />
+      <created>1765204857266</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765204857266</updated>
+    </task>
+    <task id="LOCAL-00016" summary="4">
+      <option name="closed" value="true" />
+      <created>1765205513798</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1765205513798</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +259,10 @@
     <MESSAGE value="UPDATE YIPEE" />
     <MESSAGE value="update" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <MESSAGE value="3" />
+    <MESSAGE value="4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
