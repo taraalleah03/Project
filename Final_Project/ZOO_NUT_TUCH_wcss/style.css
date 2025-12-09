@@ -1,0 +1,51 @@
+html {
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+#countries{
+    background-color: #0126b2;
+    color: white;
+    padding : 1rem 2rem;
+    font-family: "Courier New", monospace;
+    font-size: 1rem;
+    border-radius: 10px;
+    border: 4px solid #041e70;
+    flex: 1 1 450px;
+    max-width: 600px;
+    white-space: pre-line;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+
+#countries img{
+    width: 25px;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+}
+
+.row-line {
+    border-bottom: 1px dashed rgba(255,255,255,.3);
+    margin: 4px 0 8px;
+}
+
+#guessSection{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+}
+
+#guess{
+    flex: 1 1 200px;
+}
+

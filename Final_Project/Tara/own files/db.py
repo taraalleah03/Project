@@ -1,5 +1,6 @@
+import random
 import mariadb
-from flask import Flask, jsonify
+from flask import Flask, request , jsonify
 from flask_cors import CORS
 
 app = Flask(__name__)
@@ -30,7 +31,37 @@ def get_random_countries(connection, limit):
 @app.route('/api/start')
 def api_start():
     countries = get_random_countries(connection, 10)
-    return jsonify({"countries": countries})
+    best_country, details = random.choice(list(countries.items()))
+
+    continent = details["continent"]
+    city = details["city"]
+    hints = [continent, city]
+
+    return jsonify({
+        "countries": list(countries.keys()),
+        "answer": best_country,
+        "hints": hints,
+    })
+
+@app.route('/api/guess', methods=["POST"])
+def api_guess():
+    data = request.json
+    guess = data.get("guess","").strip()
+    answer = data.get("answer","").strip()
+    hints = data.get("hints",[])
+
+    if guess.lower() == answer.lower():
+        return jsonify({
+            "correct": True,
+            "message": f"Yipee, {answer} is correct! You found the country with the best grass!"
+        })
+
+    hint = random.choice(hints) if hints else "Wrong answer! Try again!"
+
+    return jsonify({
+        "correct": False,
+        "hint": hint,
+    })
 
 if __name__ == '__main__':
     app.run(host="127.0.0.1",port=5000, debug=True)

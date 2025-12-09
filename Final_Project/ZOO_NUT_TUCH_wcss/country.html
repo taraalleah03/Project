@@ -4,20 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Country Guessing Game</title>
+    <link href = "style.css" rel = "stylesheet">
 </head>
 <body>
     <h1>Game</h1>
-
+    
     <div id="timer"></div>
     <div id="lives"></div>
-    <div id ="message"></div>
+    <div id = "message"></div>
     <button id="start_btn">Start!</button>
 
     <div id="guessSection">
-        <div id="countries"></div>
+        <!-- line 53 country js changes the id countries when press start-->
+        <div id="countries"><img src="airplane_icon.png" alt="airplane_icon"><b>Departure</b></div>
 
-        <input id="guess_ans" placeholder="Which country has the best grass?">
-        <button id="guess_btn">Guess</button>
+        <div id="guess">
+            <h1>Which country has the best grass?</h1>
+            <input id="guess_ans" placeholder="Type a country">
+            <button id="guess_btn">Guess</button>
+        </div>
 
         <p id="result"></p>
         <p id="hint"></p>

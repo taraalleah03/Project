@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Game</title>
+</head>
+<body>
+    <button id ="start_btn">Start!</button>
+
+    <div id ="countries">
+        <!--This is where the randomized list of countries will be displayed-->
+    </div>
+
+    <input id="guess_ans" placeholder="Which country has the best grass?"/>
+    <button id="guess_btn">Submit</button>
+
+    <p id ="result"></p>
+    <p id ="hint"></p>
+
+    <script>
+        let answer = null;
+        let hints_list = [];
+
+        //Game starts when user click start_btn
+        document.getElementById("start_btn").onclick = async() => {
+            const res = await fetch("http://127.0.0.1:5000/api/start");
+            const data = await res.json();
+
+            answer = data.answer;
+            hints_list = data.hints;
+
+            const list = document.getElementById("countries");
+            list.innerHTML = "Countries to choose from:<br>" + data.countries.join("<br>");
+
+            document.getElementById("result").textContent = "";
+            document.getElementById("hint").textContent = "";
+        };
+
+        //Guessing
+        document.getElementById("guess_btn").onclick = async() => {
+            const guess = document.getElementById("guess_ans").value.trim();
+            if (!guess) return;
+
+            const res = await fetch("http://127.0.0.1:5000/api/guess",{
+                method: "POST",
+                headers: {"Content-Type": "application/json" },
+                body : JSON.stringify({
+                    guess : guess,
+                    answer : answer,
+                    hints : hints_list
+                })
+            });
+
+            const result = await res.json();
+
+            if (result.correct){
+                document.getElementById("result").textContent = result.message;
+                document.getElementById("hint").textContent = "";
+            }else{
+                document.getElementById("result").textContent = "Wrong!";
+                document.getElementById("hint").textContent = "Hint: " + result.hint;
+            }
+
+            document.getElementById("guess_ans").value = "";
+        };
+
+    </script>
+
+</body>
+</html>
