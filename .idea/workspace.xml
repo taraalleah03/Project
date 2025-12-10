@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="96a1eb3b-035e-44c1-abac-01525dce9070" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/country.js" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/country.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Project/Finally_final/datab.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/Finally_final/datab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +80,8 @@
       <recent name="$PROJECT_DIR$/Final_Project/Clary" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mtara\PycharmProjects\Project" />
+      <recent name="C:\Users\mtara\PycharmProjects\Project\Final_Project\Draft Code" />
       <recent name="$PROJECT_DIR$/Final_Project/Clary" />
       <recent name="$PROJECT_DIR$/Final_Project/Clary/photo" />
       <recent name="$PROJECT_DIR$/Final_Project/Clary/audio" />
@@ -116,6 +116,7 @@
       <workItem from="1765302659227" duration="6184000" />
       <workItem from="1765356987745" duration="370000" />
       <workItem from="1765363247092" duration="1559000" />
+      <workItem from="1765373187623" duration="523000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -293,7 +294,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765288660935</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update">
+      <option name="closed" value="true" />
+      <created>1765373248104</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1765373248104</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update">
+      <option name="closed" value="true" />
+      <created>1765373590165</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1765373590165</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,7 +352,7 @@
     <SUITE FILE_PATH="coverage/Project$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1759695807435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$tara_testcode.coverage" NAME="tara_testcode Coverage Results" MODIFIED="1759687351969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$test.coverage" NAME="test Coverage Results" MODIFIED="1759490283591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Project$datab.coverage" NAME="datab Coverage Results" MODIFIED="1765363309575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Final_Project/Finally_final" />
+    <SUITE FILE_PATH="coverage/Project$datab.coverage" NAME="datab Coverage Results" MODIFIED="1765373687232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Final_project" />
     <SUITE FILE_PATH="coverage/Project$game.coverage" NAME="game Coverage Results" MODIFIED="1764850233471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
