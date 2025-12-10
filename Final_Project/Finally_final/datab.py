@@ -16,7 +16,10 @@ connection = mariadb.connect(
 # function to get countries
 def get_random_countries(connection, limit):
     cursor = connection.cursor()
-    sql = "SELECT c.name, a.continent, MAX(a.municipality) FROM country c JOIN airport a ON c.iso_country = a.iso_country WHERE a.municipality IS NOT NULL GROUP BY c.name, a.continent ORDER BY RAND() LIMIT ?"
+    sql = ("SELECT c.name, a.continent, MAX(a.municipality) "
+           "FROM country c JOIN airport a ON c.iso_country = a.iso_country "
+           "WHERE a.municipality IS NOT NULL GROUP BY "
+           "c.name, a.continent ORDER BY RAND() LIMIT ?")
     cursor.execute(sql, (limit,))
     results = cursor.fetchall()
     cursor.close()

@@ -52,7 +52,9 @@ document.getElementById("start_btn").onclick = async () => {
     currentHintIndex = 0;
 
     document.getElementById("countries").innerHTML =
-        document.getElementById("countries").innerHTML + "<br><br>Countries to choose from:<br><br>" + countryNames.map(n => `${n}<div class='row-line'></div>`).join("<br>");
+        document.getElementById("countries").innerHTML + "<br><br>Countries to" +
+        " choose from:<br><br>" + countryNames.map
+        (n => `${n}<div class='row-line'></div>`).join("<br>");
         //added slight change to countries js to match look
 
     document.getElementById("result").textContent = "";
